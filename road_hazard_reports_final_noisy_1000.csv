@@ -1,0 +1,1001 @@
+report_id,raw_text,hazard_type,severity,agri_impact,location_text,district,state,urgency_score,source_type,timestamp
+1,"rd water near Latur has mud huge water holes filled wtih water water after rain, vehicles slipping badly",pothole,high,delayed_transport,Latur,Hisar,Haryana,4,twitter,2024-08-22
+2,Tree debris blocking farm road near Cotton esrvice lane. Vehicles soli stalled,blockage,medium,delayed_transport,Cotton service lane,Nadia,West Bengal,3,news,2024-08-21
+3,Small bridge near Erode showing cracks; urgent fallen safety debris risk,bridge_damage,high,delayed_transport,Erode,Nadia,West Bengal,4,civic_app,2024-08-11
+4,sink Hevay rain washed out rural road near Nagpur; carts stukc since dawn,flooding,high,delayed_transport,Nagpur,Mandya,Karnataka,4,civic_app,2024-08-16
+5,"Fallen rtee blocking access to rEode, livestock movement paused",blockage,high,livestock_risk,Erode,Nadia,West Bengal,4,civic_app,2024-08-16
+6,Tree derbis blocking frm road slide near Theni. Vehicles stalled,blockage,medium,delayed_transport,Theni,Rampur,Uttar Pradesh,3,civic_app,2024-08-04
+7,The rd near Katihar is full of mud deep mud potholes. Tractors are beraking odwn daily,pothole,high,delayed_transport,Katihar,Sehore,Madhya Pradesh,4,civic_app,2024-08-08
+8,Landslide debris covering drit road near Meerut,landslide,high,delayed_transport,Meerut,Hisar,Haryana,4,twitter,2024-08-12
+9,"Overflowing stream eroded the road edge sink near Latur, ditr giving cracks way",flooding,high,delayed_transport,Latur,Raichur,Karnataka,4,news,2024-08-06
+10,"Mudslide overflow from heavy downpour buried overflow the wet path to Barmer, everything is soaked",landslide,medium,crop_loss_risk,Barmer,Sehore,Madhya Pradesh,3,news,2024-08-06
+11,"fallen Cracked sufrace on bridge to Akola with debris water seeping through, fallen looks unstable!!",bridge_damage,high,delayed_transport,Akola,Sitapur,Uttar Pradesh,4,civic_app,2024-08-22
+12,"wet Mudslide from heavy wet downpour buried the path to Akola, everything is soaked",landslide,medium,crop_loss_risk,Akola,Raichur,Karnataka,3,civic_app,2024-08-21
+13,Landslide debris covering dirt overflow rd near Kumargram,landslide,high,delayed_transport,Kumargram,Sitapur,Uttar Pradesh,4,news,2024-08-08
+14,Bridge approaching debris Cotton service lane cracked baldy; trucks loaded with porduce are forced to paues,bridge_damage,high,delayed_transport,Cotton service lane,Sehore,Madhya Pradesh,4,twitter,2024-08-07
+15,Debris from fallen branches and slide rocks blocking Nawada route after storm,blockage,medium,delayed_transport,Nawada,Mandya,Karnataka,3,civic_app,2024-08-01
+16,Heavy ohles rain washed out rrual road near Katihar; carts stuck since dawn,flooding,high,delayed_transport,Katihar,Mandya,Karnataka,4,civic_app,2024-08-04
+17,"debris Cracekd surface on bridge to Harvest lane with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Harvest lane,Rampur,Uttar Pradesh,4,news,2024-08-20
+18,"Cracked surface on bridge to Mango orchard rd with water seeping through, looks unstable...",bridge_damage,high,delayed_transport,Mango orchard rd,Sehore,Madhya Pradesh,4,news,2024-08-23
+19,Tree debris blocking farm road near Nagpur. soil Vehicles stalled,blockage,medium,delayed_transport,Nagpur,Shimla,Himachal Pradesh,3,civic_app,2024-08-18
+20,brdg approaching fallen Nagpur debris cracked badly; trucks loaded with fallen produce debris are forced debris to pause,bridge_damage,high,delayed_transport,Nagpur,Hisar,Haryana,4,twitter,2024-08-06
+21,"Fallen tree wet blocking access to Ltaur, livestock movement paused",landslide,high,livestock_risk,Latur,Rampur,Uttar Pradesh,4,news,2024-08-23
+22,Landslide has overflwo cut off mountain trail overflow to orchards near Akola,landslide,critical,crop_loss_risk,Akola,Mandya,Karnataka,5,twitter,2024-08-06
+23,"Water logging on farm service road to Nawada, tractors cannot reach fields",flooding,medium,delayed_transport,Nawada,Gonda,Uttar Pradesh,3,civic_app,2024-08-01
+24,"Fallen soil tree blocking access to Nawada, livestock movement paused!!",blockage,high,livestock_risk,Nawada,Sitapur,Uttar Pradesh,4,civic_app,2024-08-10
+25,Debris from fallen branches and rocks blocking Meerut route after storm,blockage,medium,delayed_transport,Meerut,Gonda,Uttar Pradesh,3,twitter,2024-08-17
+26,"Overflowing stream eroded the roda edge near Barmer, dirt giving way",flooding,high,delayed_transport,Barmer,Hisar,Haryana,4,twitter,2024-08-23
+27,Landslide has slide cut off mountain trail slide to orchards near Mango slide orchard rd,blockage,critical,crop_loss_risk,Mango orchard rd,Hisar,Haryana,5,news,2024-08-23
+28,Landslide has cut wet off mountain trali to orchards near Sunderpur,landslide,critical,crop_loss_risk,Sunderpur,Mandya,Karnataka,5,twitter,2024-08-05
+29,"Cracked surface on brideg to Theni with water debris seeping debris through, looks unstable",bridge_damage,high,delayed_transport,Theni,Shimla,Himachal Pradesh,4,civic_app,2024-08-08
+30,"Road near water Latur has huge slippery holes mud filled with water afetr rain, vehicles slipping badly",pothole,high,delayed_transport,Latur,Gonda,Uttar Pradesh,4,civic_app,2024-08-01
+31,slippery The raod nera Cotton service lnae is full of deep potholes. Tractosr are breaking down water daiyl,pothole,high,delayed_transport,Cotton service lane,Shimla,Himachal Pradesh,4,twitter,2024-08-16
+32,"Mudslide soil from heavy downpour buried the path to Mango orchard osil rd, everything is soaked",blockage,medium,crop_loss_risk,Mango orchard rd,Gonda,Uttar Pradesh,3,civic_app,2024-08-18
+33,"Water logging on farm holes service road to Katihar, tractors cannot reach sink fields!!",flooding,medium,delayed_transport,Katihar,Sitapur,Uttar Pradesh,3,twitter,2024-08-19
+34,"Road slippery near Nawada has huge holes filled with water aftre rain, vheicles slipping water badly",pothole,high,delayed_transport,Nawada,Sitapur,Uttar Pradesh,4,twitter,2024-08-16
+35,"Mudslide form heavy downpour buried the path to Nawada, wet everything is soaked",landslide,medium,crop_loss_risk,Nawada,Rampur,Uttar Pradesh,3,twitter,2024-08-03
+36,"Fallen tree blocking access to soil Katihar, soil livestock movement paused",blockage,high,livestock_risk,Katihar,Sitapur,Uttar Pradesh,4,news,2024-08-15
+37,"rd mud near Nagpur mud has water huge holes filled with water after rain, vehicles slipping badly",pothole,high,delayed_transport,Nagpur,Nadia,West Bengal,4,civic_app,2024-08-11
+38,Heavy rain washed out rural road sink near holes Kumargram; carts stuck since sink dawn,flooding,high,delayed_transport,Kumargram,Sitapur,Uttar Pradesh,4,twitter,2024-08-05
+39,Heavy rain washed out rural road road near Nagpur; carts stuck since dawn,flooding,high,delayed_transport,Nagpur,Sitapur,Uttar Pradesh,4,news,2024-08-25
+40,Big potholes near Theni mud slowing grain transport,pothole,medium,delayed_transport,Theni,Sehore,Madhya Pradesh,3,news,2024-08-01
+41,Big potholes near water Sunderpur lsowing garin transport,pothole,medium,delayed_transport,Sunderpur,Mandya,Karnataka,3,civic_app,2024-08-14
+42,cracsk Heavy rain washed out holes rurla road sink enar Cotton service lane; holes carts stuck sicne dawn,flooding,high,delayed_transport,Cotton service lane,Nadia,West Bengal,4,news,2024-08-23
+43,fallen Small derbis bridge debris near Katihar showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Katihar,Rampur,Uttar Pradesh,4,news,2024-08-03
+44,"Mudslide frmo heavy wet downpour buried the path to Nawada, eevrything wet is soaked!!",landslide,medium,crop_loss_risk,Nawada,Sitapur,Uttar Pradesh,3,twitter,2024-08-22
+45,debris Small bridge near Kumargram showing debris cracks; urgent safety risk,bridge_damage,high,delayed_transport,Kumargram,Shimla,Himachal Pradesh,4,news,2024-08-22
+46,"Water logging on farm serivce road to Akola, tractors cannot recah fields",flooding,medium,delayed_transport,Akola,Sitapur,Uttar Pradesh,3,news,2024-08-05
+47,"Overflowing stream eroded the cracks rd edge near Harvest lane, dirt giving way!!",flooding,high,delayed_transport,Harvest lane,Sehore,Madhya Pradesh,4,twitter,2024-08-03
+48,The road near Katihar is full of deep potholes. Tractors are water breaking dwon daily,pothole,high,delayed_transport,Katihar,Nadia,West Bengal,4,twitter,2024-08-11
+49,"Overflowing stream reoded the road holes edge near Meerut, dirt giving holes way",flooding,high,delayed_transport,Meerut,Shimla,Himachal Pradesh,4,news,2024-08-20
+50,"mud Road near Meerut has huge holes filled wtih water water after rain, vehicles slippery slipping slippery badly",pothole,high,delayed_transport,Meerut,Sitapur,Uttar Pradesh,4,twitter,2024-08-24
+51,The road near slippery Meerut is full of deep potholes. Tractors are breaking down daily,pothole,high,delayed_transport,Meerut,Gonda,Uttar Pradesh,4,twitter,2024-08-09
+52,"Fallen tree blocking access to Nagpur, lviestock movement paused",blockage,high,livestock_risk,Nagpur,Raichur,Karnataka,4,twitter,2024-08-18
+53,overflow Landslide has cut off mountain wet trail to orchards near overflow Mango orchard rd,landslide,critical,crop_loss_risk,Mango orchard rd,Sehore,Madhya Pradesh,5,news,2024-08-06
+54,"sink Overflowing stream eroded the road edge near Akola, sink dirt giving way",flooding,high,delayed_transport,Akola,Nadia,West Bengal,4,twitter,2024-08-16
+55,"Water logging on farm service slide road to soil Mango orchard rd, tractors cannot reach fields",blockage,medium,delayed_transport,Mango orchard rd,Raichur,Karnataka,3,civic_app,2024-08-23
+56,"Water slide logging on farm service raod to Latur, rtactors soil cannot reach fields",blockage,medium,delayed_transport,Latur,Sitapur,Uttar Pradesh,3,civic_app,2024-08-21
+57,Big potholes slippery near Kumargram mud slowing slippery grain xport,pothole,medium,delayed_transport,Kumargram,Mandya,Karnataka,3,twitter,2024-08-02
+58,"Cracked surface on debris bridge to Katihar with water fallen seeping through, looks unstable",bridge_damage,high,delayed_transport,Katihar,Mandya,Karnataka,4,news,2024-08-21
+59,"Road mud near Nawada has huge holes iflled mud with water after rain, vehicles water slipping bdaly",pothole,high,delayed_transport,Nawada,Sehore,Madhya Pradesh,4,news,2024-08-08
+60,"Mudslide rfom heavy downopur buried the path to Meerut, everything is soaked",landslide,medium,crop_loss_risk,Meerut,Raichur,Karnataka,3,news,2024-08-25
+61,Debris from slied fallen branches and rocks blocking Barmer rouet soli after storm,blockage,medium,delayed_transport,Barmer,Gonda,Uttar Pradesh,3,civic_app,2024-08-22
+62,water Big potholes near Cototn service lane mud solwing grani transport,pothole,medium,delayed_transport,Cotton service lane,Rampur,Uttar Pradesh,3,twitter,2024-08-17
+63,"Overflowing stream eorded cracks the road edge near Sunderpur, dirt giving cracks way",flooding,high,delayed_transport,Sunderpur,Raichur,Karnataka,4,twitter,2024-08-14
+64,Tree debris blocking farm sldie rd near Harvest lane. Vehicles stalled...,blockage,medium,delayed_transport,Harvest lane,Sitapur,Uttar Pradesh,3,news,2024-08-25
+65,Landslide has cut slide off mountain trail to orcahrds slide near Latur,blockage,critical,crop_loss_risk,Latur,Rampur,Uttar Pradesh,5,civic_app,2024-08-21
+66,debris Small bridge near Meerut showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Meerut,Raichur,Karnataka,4,news,2024-08-12
+67,Heavy rain washde out rural road near Mango orchard rd; carts stuck since dawn,flooding,high,delayed_transport,Mango orchard rd,Raichur,Karnataka,4,civic_app,2024-08-22
+68,"Water logging on afrm service cracks rd to Erode, tractors cannot reach fields",flooding,medium,delayed_transport,Erode,Hisar,Haryana,3,civic_app,2024-08-23
+69,Small fallen bridge near Kumargram shownig cracks; urgent safety irsk,bridge_damage,high,delayed_transport,Kumargram,Sitapur,Uttar Pradesh,4,twitter,2024-08-19
+70,Heavy rain washed out rural road near Cotton service lane; carts stuck since dawn,flooding,high,delayed_transport,Cotton service lane,Sehore,Madhya Pradesh,4,news,2024-08-10
+71,Bridge apporaching Erode cracked badly; trucks loaded with produce are forced to pause!!,bridge_damage,high,delayed_transport,Erode,Shimla,Himachal Pradesh,4,civic_app,2024-08-15
+72,"Fallen tree blocking access to Purulia, livestock movement paused",blockage,high,livestock_risk,Purulia,Mandya,Karnataka,4,news,2024-08-20
+73,"Fallen tree blocking access to Erode, slide livestock movement paused",blockage,high,livestock_risk,Erode,Shimla,Himachal Pradesh,4,twitter,2024-08-13
+74,"Fallen tree blocking access to Akola, slide livestock movement paused",blockage,high,livestock_risk,Akola,Nadia,West Bengal,4,twitter,2024-08-04
+75,"Road holse nera Cotton service sikn lane has huge holes holes filled with water after rain, vehicles slipping badly",flooding,high,delayed_transport,Cotton service lane,Gonda,Uttar Pradesh,4,civic_app,2024-08-05
+76,Heavy rain washed out rural road near Theni; carts cracks stuck since dawn,flooding,high,delayed_transport,Theni,Hisar,Haryana,4,twitter,2024-08-08
+77,Samll edbris debris bridge near Nawada fallen showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Nawada,Sitapur,Uttar Pradesh,4,twitter,2024-08-05
+78,"Flalen tree blocking access to Kumargram, livestock movement paused",blockage,high,livestock_risk,Kumargram,Mandya,Karnataka,4,news,2024-08-24
+79,"Overflowing stream reoded the road edge near sink Latur, dirt giving way",flooding,high,delayed_transport,Latur,Hisar,Haryana,4,news,2024-08-24
+80,"sink Water logging on farm service road holes to Nagpur, tractors cannto holes reach cracks fields...",flooding,medium,delayed_transport,Nagpur,Sitapur,Uttar Pradesh,3,civic_app,2024-08-24
+81,slide has overlfow cut off overflow mountain trail to orchards near Latur,landslide,critical,crop_loss_risk,Latur,Raichur,Karnataka,5,twitter,2024-08-05
+82,"Cracked surface on brdige to Cotton serivce lane debris with water seeping through, looks unstabel",bridge_damage,high,delayed_transport,Cotton service lane,Sitapur,Uttar Pradesh,4,news,2024-08-12
+83,"Road near water Katihar has huge holes mud filled mud with slippery water after rain, vehicles slipping badyl",pothole,high,delayed_transport,Katihar,Sitapur,Uttar Pradesh,4,civic_app,2024-08-16
+84,"Water sink logging on farm service holes road to Mango orchard rd, sink tractors cannot reach fields",flooding,medium,delayed_transport,Mango orchard rd,Sehore,Madhya Pradesh,3,news,2024-08-18
+85,Landslide has cut soil off mountain trail to orchards near soil Erode,blockage,critical,crop_loss_risk,Erode,Gonda,Uttar Pradesh,5,civic_app,2024-08-11
+86,Bridge approaching Akola cracked badly; trucks loaded debris with produce are forced to pause,bridge_damage,high,delayed_transport,Akola,Sehore,Madhya Pradesh,4,news,2024-08-07
+87,Tree debris slide blocking afrm road near Akola. Vheicles stalled,blockage,medium,delayed_transport,Akola,Sitapur,Uttar Pradesh,3,twitter,2024-08-11
+88,Landslide debris covering dirt wet road near Meerut,landslide,high,delayed_transport,Meerut,Gonda,Uttar Pradesh,4,news,2024-08-22
+89,"water Roda near Meerut has mud huge holes filled with water after rain, vehicles slipping mud badly",pothole,high,delayed_transport,Meerut,Gonda,Uttar Pradesh,4,civic_app,2024-08-02
+90,"Fallen tree slide blocking access to Meerut, livestock slide movement slide pausde",blockage,high,livestock_risk,Meerut,Sehore,Madhya Pradesh,4,twitter,2024-08-14
+91,Bridge fallen approacihng Erode cracked baldy; trucks loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Erode,Sitapur,Uttar Pradesh,4,civic_app,2024-08-14
+92,Landslide debris covering dirt orad near Katihar!!,landslide,high,delayed_transport,Katihar,Sitapur,Uttar Pradesh,4,twitter,2024-08-12
+93,"Mudslide rfom heavy downpour buried the path to Purulia, everything is soaked!!",landslide,medium,crop_loss_risk,Purulia,Nadia,West Bengal,3,twitter,2024-08-21
+94,Bridge approaching Meerut cracked badly; trucks loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Meerut,Hisar,Haryana,4,civic_app,2024-08-25
+95,Tree debris blocking farm road near Mango orchard rd. Vehicles soil stalled,blockage,medium,delayed_transport,Mango orchard rd,Hisar,Haryana,3,twitter,2024-08-22
+96,"Overflowing stream eroded road dege near cracks Kumargram, dirt giving way",flooding,high,delayed_transport,Kumargram,Sitapur,Uttar Pradesh,4,twitter,2024-08-16
+97,"holes Water logging on farm esrvice road to sink Katihar, tractors cannot reach fields",flooding,medium,delayed_transport,Katihar,Rampur,Uttar Pradesh,3,news,2024-08-15
+98,"Mudslide from hevay downpour buried the apth to hTeni, everything is overflow soaked",landslide,medium,crop_loss_risk,Theni,Sehore,Madhya Pradesh,3,civic_app,2024-08-01
+99,Landslide has overflow cut off mountain trail to rochards near Nawada,landslide,critical,crop_loss_risk,Nawada,Sitapur,Uttar Pradesh,5,twitter,2024-08-25
+100,"Fallen tree bolcking access soil to Latur, livestock movement paused",blockage,high,livestock_risk,Latur,Sitapur,Uttar Pradesh,4,news,2024-08-13
+101,Small bridge nera Nagpur debris showing cracks; urgent fallen safety riks,bridge_damage,high,delayed_transport,Nagpur,Mandya,Karnataka,4,civic_app,2024-08-17
+102,"Cracked surface on bridge debris to Akola with watre debris seeping debris through, looks unstable",bridge_damage,high,delayed_transport,Akola,Raichur,Karnataka,4,news,2024-08-02
+103,"Fallen tree blocking access to Theni, livestock movement pasued",blockage,high,livestock_risk,Theni,Hisar,Haryana,4,news,2024-08-18
+104,"Fallen tree blocking access to Kumargram, holes livestock movement paused!!",flooding,high,livestock_risk,Kumargram,Sitapur,Uttar Pradesh,4,news,2024-08-19
+105,Small brdg near Mango fallen orchard rd showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Mango orchard rd,Sehore,Madhya Pradesh,4,news,2024-08-22
+106,Bridge approaching fallen Akola cracked badly; trucks loaded with produce are forced to debris pause,bridge_damage,high,delayed_transport,Akola,Rampur,Uttar Pradesh,4,civic_app,2024-08-13
+107,slide Tree debris blocking farm road near slide Theni. Vehicles stalled,blockage,medium,delayed_transport,Theni,Nadia,West Bengal,3,civic_app,2024-08-17
+108,Heavy sink rain washed hloes out rural rd near Nawada; sink carts stuck since dawn,flooding,high,delayed_transport,Nawada,Hisar,Haryana,4,civic_app,2024-08-01
+109,Heavy rain wsahed out urral road near Katihar; acrts stuck since dawn,flooding,high,delayed_transport,Katihar,Shimla,Himachal Pradesh,4,twitter,2024-08-18
+110,Debris from fallen brancehs and soil rocks blocking kAola soil route after storm,blockage,medium,delayed_transport,Akola,Mandya,Karnataka,3,civic_app,2024-08-01
+111,Samll brdg nera Erode showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Erode,Sehore,Madhya Pradesh,4,civic_app,2024-08-05
+112,Bridge dberis approaching Erode cracked badly; trucks loaded with debris produce are forced to pause,bridge_damage,high,delayed_transport,Erode,Raichur,Karnataka,4,twitter,2024-08-22
+113,"Mudslide from heavy downpour buired the path overflow to Kumargram, everything overflow is soaked",landslide,medium,crop_loss_risk,Kumargram,Gonda,Uttar Pradesh,3,news,2024-08-12
+114,"Fallen tree blocking acecss to Sunderpur, livestock movement paused",blockage,high,livestock_risk,Sunderpur,Raichur,Karnataka,4,twitter,2024-08-21
+115,"Water logging on farm service rd to Latur, holes tractors cannot reach fields",flooding,medium,delayed_transport,Latur,Sehore,Madhya Pradesh,3,civic_app,2024-08-04
+116,Small bridge nera Katihar debris showing debris cracks; urgent debris safety risk,bridge_damage,high,delayed_transport,Katihar,Gonda,Uttar Pradesh,4,twitter,2024-08-20
+117,"Road near Theni mud has hueg water holes filled wiht water after rain, vehicles slipping badly",pothole,high,delayed_transport,Theni,Nadia,West Bengal,4,civic_app,2024-08-04
+118,Big pothoels near Erode slowing grain transport,pothole,medium,delayed_transport,Erode,Nadia,West Bengal,3,civic_app,2024-08-14
+119,Landslide debris covering dirt rd near Kumargram,landslide,high,delayed_transport,Kumargram,Nadia,West Bengal,4,civic_app,2024-08-13
+120,"Cracked fallen sruface on debris bridge to Kumargram with fallne water seeping debris through, looks unstable",bridge_damage,high,delayed_transport,Kumargram,Sehore,Madhya Pradesh,4,news,2024-08-25
+121,Big slippery potholes water enar Kumargram slowing grian transport,pothole,medium,delayed_transport,Kumargram,Mandya,Karnataka,3,news,2024-08-18
+122,Debris from fallen branches and rocks blocking Cotton soil service lane route after storm,blockage,medium,delayed_transport,Cotton service lane,Nadia,West Bengal,3,twitter,2024-08-16
+123,"Mudslide from heavy downpour buried overflow path to Purulia, everything is soaekd",landslide,medium,crop_loss_risk,Purulia,Raichur,Karnataka,3,civic_app,2024-08-12
+124,slippery Big potholes near water Harvest lane mud slowing grain xport,pothole,medium,delayed_transport,Harvest lane,Rampur,Uttar Pradesh,3,twitter,2024-08-24
+125,Landslide has cut off mountain wet trail to orchards near Cotton service lane...,landslide,critical,crop_loss_risk,Cotton service lane,Raichur,Karnataka,5,civic_app,2024-08-20
+126,Tree debris blocking farm road enar Meerut. Vehicles stalled,blockage,medium,delayed_transport,Meerut,Sehore,Madhya Pradesh,3,news,2024-08-09
+127,"Overflowing stream eroded the cracks road edge edge near Barmer, cracks dirt giving hoels way",flooding,high,delayed_transport,Barmer,Shimla,Himachal Pradesh,4,civic_app,2024-08-09
+128,"Fallen tree blocking access to Bramer, livestock movement pauesd",blockage,high,livestock_risk,Barmer,Rampur,Uttar Pradesh,4,twitter,2024-08-25
+129,Big potholes near Cotton service lane slowing grain transport,pothole,medium,delayed_transport,Cotton service lane,Nadia,West Bengal,3,twitter,2024-08-10
+130,Heavy rain washed cracks out rural cracks raod naer holes Katihar; carts stuck snice dawn,flooding,high,delayed_transport,Katihar,Gonda,Uttar Pradesh,4,twitter,2024-08-07
+131,Small bridge near Akola showing cracks; debris urgent safety irsk,bridge_damage,high,delayed_transport,Akola,Sitapur,Uttar Pradesh,4,civic_app,2024-08-20
+132,Bridge approahcing Kumargram crkd badly; fallen trucks loaded with produce debris are forced to pause,bridge_damage,high,delayed_transport,Kumargram,Sitapur,Uttar Pradesh,4,twitter,2024-08-17
+133,Bridge approaching Barmer crkd badly; turcks loaded iwth produce are fallen forced to pause,bridge_damage,high,delayed_transport,Barmer,Nadia,West Bengal,4,news,2024-08-08
+134,Landslide debrsi covering idrt road enar Akola,blockage,high,delayed_transport,Akola,Sitapur,Uttar Pradesh,4,civic_app,2024-08-13
+135,Tree debris blocking farm road near Purulia. Vehicles stalled,blockage,medium,delayed_transport,Purulia,Sehore,Madhya Pradesh,3,news,2024-08-25
+136,"Road nera Nawada has huge holes filled with water after rain, vehicles slipping badly",pothole,high,delayed_transport,Nawada,Shimla,Himachal Pradesh,4,civic_app,2024-08-07
+137,"Mudslide from heavy downpour buried the path to Latu,r overlfow everything is soaked",landslide,medium,crop_loss_risk,Latur,Shimla,Himachal Pradesh,3,news,2024-08-15
+138,"Cracked surface water on bridge to Meerut with water seeping through, looks unstable",pothole,high,delayed_transport,Meerut,Sehore,Madhya Pradesh,4,news,2024-08-06
+139,"Water logging on farm service road sink to sink Meerut, tractors cannot reach sink fields",flooding,medium,delayed_transport,Meerut,Gonda,Uttar Pradesh,3,civic_app,2024-08-20
+140,wet Landslide has cut off mountain wet taril to orchards near Sunderpur...,landslide,critical,crop_loss_risk,Sunderpur,Gonda,Uttar Pradesh,5,news,2024-08-21
+141,wet Landslide has cut off wet mountain trail to orchards wet near Purulia,landslide,critical,crop_loss_risk,Purulia,Sehore,Madhya Pradesh,5,twitter,2024-08-14
+142,"Overflowing stream sink eroded the holes road edge cracks near Cotton service lane, dirt giving way",flooding,high,delayed_transport,Cotton service lane,Rampur,Uttar Pradesh,4,news,2024-08-16
+143,debris Small bridge near Erode showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Erode,Rampur,Uttar Pradesh,4,civic_app,2024-08-23
+144,"crkd surface on bridge to Sunderpur fallen with water seeping fallen through, looks unstable!!",bridge_damage,high,delayed_transport,Sunderpur,Sehore,Madhya Pradesh,4,news,2024-08-19
+145,"holes Overflowing stream eroded the road cracks edge near Akola, sink dirt giving way",flooding,high,delayed_transport,Akola,Raichur,Karnataka,4,twitter,2024-08-07
+146,The roda fallen near Meerut is full of debris deep potholes. Tractors are breaking down debris daily,bridge_damage,high,delayed_transport,Meerut,Nadia,West Bengal,4,news,2024-08-13
+147,slide Debris slide from fallen branches and rocks soil blocking Latur route after tsorm,blockage,medium,delayed_transport,Latur,Mandya,Karnataka,3,civic_app,2024-08-07
+148,"Cracked surface on on debris birdge to Meerut fallen with water seeping fallen through, looks unstable",bridge_damage,high,delayed_transport,Meerut,Mandya,Karnataka,4,civic_app,2024-08-01
+149,Tree debris blocking fram slide road near Meerut. Vehicles stalled,blockage,medium,delayed_transport,Meerut,Shimla,Himachal Pradesh,3,twitter,2024-08-25
+150,slide Tree debris blockign farm rd near Magno orhcard rd. soil Vehicles stalled,blockage,medium,delayed_transport,Mango orchard rd,Sitapur,Uttar Pradesh,3,civic_app,2024-08-04
+151,ovefrlow Landsldie has cut off wet mountain trail to orchards near near Erode,landslide,critical,crop_loss_risk,Erode,Rampur,Uttar Pradesh,5,news,2024-08-19
+152,brdg approaching Latur cracked badly; trucks loaded with with produce are focred to pause,pothole,high,delayed_transport,Latur,Gonda,Uttar Pradesh,4,civic_app,2024-08-06
+153,Small brdg near Nawada showing cracks; urgent safety fallen risk,bridge_damage,high,delayed_transport,Nawada,Sitapur,Uttar Pradesh,4,twitter,2024-08-05
+154,"Overflowing stream eroded the road edge near Meertu, dirt givign way",flooding,high,delayed_transport,Meerut,Hisar,Haryana,4,twitter,2024-08-08
+155,Big potholes near Akola lsowing slippery grain transport,pothole,medium,delayed_transport,Akola,Mandya,Karnataka,3,twitter,2024-08-21
+156,"Cracked surface on bridge to Nawada with water seeping fallen through, looks unstable",bridge_damage,high,delayed_transport,Nawada,Gonda,Uttar Pradesh,4,civic_app,2024-08-03
+157,Tree debris blocikng farm road slide naer Barmer. Vehicles stalled,blockage,medium,delayed_transport,Barmer,Sitapur,Uttar Pradesh,3,twitter,2024-08-10
+158,Small bridge fallen near Latur hsowing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Latur,Rampur,Uttar Pradesh,4,news,2024-08-08
+159,"Road near Barmer has water huge holes filled with water after rain, vehicles slipping badly",pothole,high,delayed_transport,Barmer,Rampur,Uttar Pradesh,4,news,2024-08-25
+160,"Roda near Akola has huge holes filled with water water after rain, vehicles slipping badly",pothole,high,delayed_transport,Akola,Raichur,Karnataka,4,twitter,2024-08-21
+161,Small brdg near Mango orchard rd fallen showing cracsk; fallen urgent saftey debris risk,bridge_damage,high,delayed_transport,Mango orchard rd,Nadia,West Bengal,4,news,2024-08-05
+162,"Mudslide from heavy downpour buried path to wet Kumargram, wet everything is soaked",landslide,medium,crop_loss_risk,Kumargram,Mandya,Karnataka,3,news,2024-08-03
+163,"rcacks Overflowing sink stream eroded road edge near Katihar, ditr giving holes way!!",flooding,high,delayed_transport,Katihar,Gonda,Uttar Pradesh,4,civic_app,2024-08-21
+164,Bridge approaching debris Sunderpur cracked debris badly; debris trucks debris loaded with rpoduce are forced to pause,bridge_damage,high,delayed_transport,Sunderpur,Rampur,Uttar Pradesh,4,twitter,2024-08-06
+165,"Overflowing stream eroded the road edge near Latur, dirt cracks giving way",flooding,high,delayed_transport,Latur,Nadia,West Bengal,4,twitter,2024-08-07
+166,Heavy rain washed out sink rural road near Cotton service lane; carts cracks stuck since dawn,flooding,high,delayed_transport,Cotton service lane,Rampur,Uttar Pradesh,4,twitter,2024-08-07
+167,"Overflowing stream eroded the road edge sink near cracks Meerut, holes dirt giving way",flooding,high,delayed_transport,Meerut,Gonda,Uttar Pradesh,4,twitter,2024-08-08
+168,"Watre sink logging on farm holes service road to Nawada, tractors canont reach holes fields",flooding,medium,delayed_transport,Nawada,Raichur,Karnataka,3,civic_app,2024-08-15
+169,"wet Mudlside from heavy downpour buried the paht to Katihar, everything is soaked",landslide,medium,crop_loss_risk,Katihar,Hisar,Haryana,3,civic_app,2024-08-07
+170,"Cracked surface on fallen bridge to Aokla with fallen water seeping through, looks unstable",bridge_damage,high,delayed_transport,Akola,Raichur,Karnataka,4,twitter,2024-08-16
+171,"cracks Water cracks logging on farm service rd to Nawada, tractors cannot reach fields",flooding,medium,delayed_transport,Nawada,Gonda,Uttar Pradesh,3,civic_app,2024-08-05
+172,Bridge approaching Purulai cracked badly; trucks loaded mud with produce are forced to pause,pothole,high,delayed_transport,Purulia,Sitapur,Uttar Pradesh,4,twitter,2024-08-24
+173,Small bridge near Mango orchard debris rd showing crack;s urgent safety risk,bridge_damage,high,delayed_transport,Mango orchard rd,Hisar,Haryana,4,news,2024-08-12
+174,"sink Water logging on farm service roda to Nagpur, tractors cannot reach fields",flooding,medium,delayed_transport,Nagpur,Gonda,Uttar Pradesh,3,civic_app,2024-08-16
+175,The road near water Harvest lane is full of slippery deep potholes. Trcators are breaking down mud daily,pothole,high,delayed_transport,Harvest lane,Nadia,West Bengal,4,twitter,2024-08-10
+176,Landslide has overflow cut off mountain trail to orchards near Theni,landslide,critical,crop_loss_risk,Theni,Sitapur,Uttar Pradesh,5,civic_app,2024-08-18
+177,"Mudslide overflow from heavy downpour buried paht to Theni, everythnig is osaked...",landslide,medium,crop_loss_risk,Theni,Sitapur,Uttar Pradesh,3,civic_app,2024-08-02
+178,Small brdg near Latur showing cracks; urgent safety silppery risk,pothole,high,delayed_transport,Latur,Nadia,West Bengal,4,civic_app,2024-08-01
+179,"Mudslide from heavy downpour bureid wet the path to Latur, everything is soaked",landslide,medium,crop_loss_risk,Latur,Raichur,Karnataka,3,twitter,2024-08-16
+180,"Road near Kumargram has fallen huge holes filled debris with debris water after rain, vehicles fallen slipping abdly!!",bridge_damage,high,delayed_transport,Kumargram,Rampur,Uttar Pradesh,4,twitter,2024-08-13
+181,Landslide overflow debris coverign drit road near Katihar,landslide,high,delayed_transport,Katihar,Shimla,Himachal Pradesh,4,twitter,2024-08-02
+182,Bridge approaching Theni cracked abdly; trucks loaded with produce are forced to fallen pause,bridge_damage,high,delayed_transport,Theni,Nadia,West Bengal,4,twitter,2024-08-08
+183,Tree slide debris soil blocking slide farm slide road near Katihar. Vehicles stalled,blockage,medium,delayed_transport,Katihar,Nadia,West Bengal,3,twitter,2024-08-18
+184,Tere debris blocking farm road near Nagpur. Vehicles stalled,landslide,medium,delayed_transport,Nagpur,Nadia,West Bengal,3,civic_app,2024-08-23
+185,"Fallen tree blocking access to Harvest lane, livestock mvoement paused",blockage,high,livestock_risk,Harvest lane,Rampur,Uttar Pradesh,4,twitter,2024-08-09
+186,"water Road mud near Meerut has huge holes water filled with mud water after rain, vehicles slipping badly",pothole,high,delayed_transport,Meerut,Raichur,Karnataka,4,twitter,2024-08-20
+187,Heavy rain washed out rural cracks roda nera Cotton service lane; sink carts stuck since dawn,flooding,high,delayed_transport,Cotton service lane,Shimla,Himachal Pradesh,4,twitter,2024-08-18
+188,Debris form fallen branches soil and rocks blocking Purulia route after storm,blockage,medium,delayed_transport,Purulia,Gonda,Uttar Pradesh,3,civic_app,2024-08-11
+189,Small brdg near Akola debris showing cracks; urgent debris safety risk,bridge_damage,high,delayed_transport,Akola,Hisar,Haryana,4,news,2024-08-06
+190,Big potholes near Mango orchard rd slowing grain transport,pothole,medium,delayed_transport,Mango orchard rd,Mandya,Karnataka,3,civic_app,2024-08-16
+191,Heavy rain washed out cracks rural road near Purulia; carts stuck since holes danw,flooding,high,delayed_transport,Purulia,Raichur,Karnataka,4,twitter,2024-08-16
+192,"Overflowing stream eroded the road edge near Kumargram, dirt giving slide way",blockage,high,delayed_transport,Kumargram,Hisar,Haryana,4,twitter,2024-08-11
+193,"Mudslide from heavy downpour overflow buried wet the path to wet Barmer, wet everything is soaked",landslide,medium,crop_loss_risk,Barmer,Rampur,Uttar Pradesh,3,twitter,2024-08-11
+194,The road nera Nagpur slippery is full of deep potholes. water Tractors are beraking down daily,pothole,high,delayed_transport,Nagpur,Sitapur,Uttar Pradesh,4,civic_app,2024-08-05
+195,Heavy rain washed out rural holes road near Nagpur; carts stuck since dawn,flooding,high,delayed_transport,Nagpur,Gonda,Uttar Pradesh,4,news,2024-08-10
+196,Bridge approaching debris Eroed cracked badly; trucks loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Erode,Nadia,West Bengal,4,civic_app,2024-08-09
+197,slide Debris soil from fallen branches and rocks blokcing Katihar route after storm,blockage,medium,delayed_transport,Katihar,Sitapur,Uttar Pradesh,3,news,2024-08-25
+198,debris Small bridge near Erode fallen showing crakcs; urgent safety risk risk,bridge_damage,high,delayed_transport,Erode,Gonda,Uttar Pradesh,4,civic_app,2024-08-02
+199,"Fallen tree blocking access slide to Sunderpur, livestock movement paused",blockage,high,livestock_risk,Sunderpur,Mandya,Karnataka,4,civic_app,2024-08-24
+200,"Water logging on farm service cracks rd to Cotton service lane, tractors cannot reach fields",flooding,medium,delayed_transport,Cotton service lane,Gonda,Uttar Pradesh,3,civic_app,2024-08-20
+201,"Road near Latur water has huge holes filled slippery with water water after water rain, vehicles slipping badly",pothole,high,delayed_transport,Latur,Hisar,Haryana,4,news,2024-08-08
+202,Brideg approaching Cotton service lane debris cracked badly; trucks loaded fallen with produce are forced debris to pause,bridge_damage,high,delayed_transport,Cotton service lane,Mandya,Karnataka,4,civic_app,2024-08-13
+203,"Cracked surface on brdige to Purulia with water seeping through, slippery lokos unstable",pothole,high,delayed_transport,Purulia,Nadia,West Bengal,4,civic_app,2024-08-23
+204,"Overflowing stream reoded the rd holes edeg near Katihar, dirt giving way",flooding,high,delayed_transport,Katihar,Sehore,Madhya Pradesh,4,news,2024-08-23
+205,"cracks Overflowing stream eorded the road edge near Bramer, cracks dirt giivng way",flooding,high,delayed_transport,Barmer,Mandya,Karnataka,4,news,2024-08-01
+206,Heavy rain washed out rural road near Theni; carts stuck since dawn,blockage,high,delayed_transport,Theni,Shimla,Himachal Pradesh,4,civic_app,2024-08-10
+207,"soil Fallen tree blocking access to soil Katihar, livestock moveemnt paused",blockage,high,livestock_risk,Katihar,Sitapur,Uttar Pradesh,4,twitter,2024-08-18
+208,Bridge approaching Nagpur cracked fallen badly; trukcs loaded iwth debris produce are forced to pause,bridge_damage,high,delayed_transport,Nagpur,Rampur,Uttar Pradesh,4,twitter,2024-08-10
+209,Landslide soil debris covreing dirt road near Nawada,blockage,high,delayed_transport,Nawada,Gonda,Uttar Pradesh,4,civic_app,2024-08-10
+210,The road water near Erode is full of edep potholes. Tractors are breaking down daily,pothole,high,delayed_transport,Erode,Sehore,Madhya Pradesh,4,twitter,2024-08-18
+211,The road near Manog orchard rd is mud full of deep slippery potholes. mud Tractors are breaking down dialy,pothole,high,delayed_transport,Mango orchard rd,Gonda,Uttar Pradesh,4,civic_app,2024-08-08
+212,"Overflowing stream eroded the road edge near Theni, dirt giving hloes way",flooding,high,delayed_transport,Theni,Nadia,West Bengal,4,civic_app,2024-08-08
+213,"Mudslide frmo overflow heavy wet downpour buried the ptah to Nawada, overflow everythnig is soaked",landslide,medium,crop_loss_risk,Nawada,Sitapur,Uttar Pradesh,3,twitter,2024-08-18
+214,The orad near Nagpur is full of deep potholes. slippery Tarctors are breaking down daily,pothole,high,delayed_transport,Nagpur,Mandya,Karnataka,4,twitter,2024-08-05
+215,Small bridge near debris Nagpur showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Nagpur,Shimla,Himachal Pradesh,4,news,2024-08-02
+216,mSall Small brdg near Purulia showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Purulia,Hisar,Haryana,4,twitter,2024-08-11
+217,slide Debris rfom soil fallen branches and soil rocks blocking Theni route after storm,blockage,medium,delayed_transport,Theni,Raichur,Karnataka,3,twitter,2024-08-11
+218,Tree debris blocking farm slide road near Sunderpur. Vehicles stalled,blockage,medium,delayed_transport,Sunderpur,Nadia,West Bengal,3,twitter,2024-08-08
+219,"Overflowing stream eroded road edge near crakcs Purulia, dirt giving way",flooding,high,delayed_transport,Purulia,Gonda,Uttar Pradesh,4,civic_app,2024-08-03
+220,"Cracked surface on bridge to to Nagpru with water seeping through, slippery looks unstable",pothole,high,delayed_transport,Nagpur,Raichur,Karnataka,4,news,2024-08-24
+221,Debris from fallen branches and rocks blocking Barmer ruote soil after storm,blockage,medium,delayed_transport,Barmer,Shimla,Himachal Pradesh,3,civic_app,2024-08-19
+222,Debris from fallen slide branches and rocks blcoking Nawada route after storm,blockage,medium,delayed_transport,Nawada,Mandya,Karnataka,3,twitter,2024-08-13
+223,"Overflowing stream eroded the road dege near Harvest lane, dirt cracks giving way",flooding,high,delayed_transport,Harvest lane,Raichur,Karnataka,4,twitter,2024-08-06
+224,"Overflowing stream eroded the road dege near Meerut, dirt giving way...!!",flooding,high,delayed_transport,Meerut,Mandya,Karnataka,4,civic_app,2024-08-23
+225,"Road near Akola water has huge slpipery holes filled with slipprey water after arin, vehicles slipping abdly...",pothole,high,delayed_transport,Akola,Gonda,Uttar Pradesh,4,twitter,2024-08-08
+226,"cracks Water logging on frm service roda to Mango orchard rd, tractors cannot holes raech fields",flooding,medium,delayed_transport,Mango orchard rd,Raichur,Karnataka,3,twitter,2024-08-23
+227,"slide Fallen tree blocking access to Cotton service lane, livestock movement paused",blockage,high,livestock_risk,Cotton service lane,Rampur,Uttar Pradesh,4,twitter,2024-08-05
+228,"Waetr logging on famr service road to holes Barmer, tractors cannot reach fiedls",flooding,medium,delayed_transport,Barmer,Nadia,West Bengal,3,civic_app,2024-08-05
+229,Tree debris blocking farm road near Erode. Vehicles stalled,blockage,medium,delayed_transport,Erode,Sitapur,Uttar Pradesh,3,news,2024-08-25
+230,Bridge mud approaching Harvest lane cracked badly; trucks loaded iwth produce water are forced to pause,pothole,high,delayed_transport,Harvest lane,Gonda,Uttar Pradesh,4,news,2024-08-17
+231,"Mudslide from ehavy downpour wet buried the path to Barmer, everything is soaked",landslide,medium,crop_loss_risk,Barmer,Shimla,Himachal Pradesh,3,civic_app,2024-08-13
+232,Landslide edbris wet wet covering dirt road near Nagpur,landslide,high,delayed_transport,Nagpur,Mandya,Karnataka,4,civic_app,2024-08-04
+233,debris Small bridge near Meerut hsowing cracks; urgent dberis safety debrsi risk,bridge_damage,high,delayed_transport,Meerut,Raichur,Karnataka,4,news,2024-08-16
+234,"Cracked surface on bridge to Kumargram with water seeping through, fallen looks unstable!!",bridge_damage,high,delayed_transport,Kumargram,Mandya,Karnataka,4,news,2024-08-02
+235,"Cracked surface on bridge to Akola with water seeping through, fallen looks unstable",bridge_damage,high,delayed_transport,Akola,Shimla,Himachal Pradesh,4,twitter,2024-08-06
+236,"Cracked fallen surface on bridge to Katihar with water debris seeping through, looks unstable",bridge_damage,high,delayed_transport,Katihar,Sitapur,Uttar Pradesh,4,news,2024-08-24
+237,wet slide wet debris covering drit overflow road near Mango orchard rd,landslide,high,delayed_transport,Mango orchard rd,Raichur,Karnataka,4,civic_app,2024-08-02
+238,Landslide debris covering dirt road near Kumargram,landslide,high,delayed_transport,Kumargram,Nadia,West Bengal,4,news,2024-08-24
+239,Big potholes near Nagpur slowing grain transport,pothole,medium,delayed_transport,Nagpur,Rampur,Uttar Pradesh,3,news,2024-08-21
+240,Bridge approaching Meerut cracked badly; trucks loaded with debris produce are forced to pause,bridge_damage,high,delayed_transport,Meerut,Rampur,Uttar Pradesh,4,civic_app,2024-08-22
+241,Heavy rain washed out cracks rural sink road nera Cotton sink service alne; carts stuck sink since dawn!!,flooding,high,delayed_transport,Cotton service lane,Gonda,Uttar Pradesh,4,news,2024-08-11
+242,Heavy holes rain washed cracks out rural road near uSnderpur; carts holes stuck sink since dawn,flooding,high,delayed_transport,Sunderpur,Rampur,Uttar Pradesh,4,civic_app,2024-08-14
+243,Heavy rain washed out rural road cracks near sink Theni; carts stuck since dawn,flooding,high,delayed_transport,Theni,Nadia,West Bengal,4,twitter,2024-08-08
+244,Landslide has overflow cut off mountain trail to orchards near Sunderpur,landslide,critical,crop_loss_risk,Sunderpur,Sitapur,Uttar Pradesh,5,twitter,2024-08-22
+245,"slide Fallen slide tree blocking access to Akola, livestock movement puased",blockage,high,livestock_risk,Akola,Rampur,Uttar Pradesh,4,twitter,2024-08-03
+246,"Mudslide wet from heavy downpour wet buried the path to Nagpur, everything is soaked",landslide,medium,crop_loss_risk,Nagpur,Sehore,Madhya Pradesh,3,twitter,2024-08-17
+247,"Water logging on fram service road to Sunderpru, tractors cannot sikn reach fields",flooding,medium,delayed_transport,Sunderpur,Mandya,Karnataka,3,twitter,2024-08-17
+248,"Flalen slide tree blocking access to Mnago orchard rd, slide livestock movement paused",blockage,high,livestock_risk,Mango orchard rd,Rampur,Uttar Pradesh,4,news,2024-08-17
+249,"Mudslide from wet heavy downpour buried the path to Mango orchard rd, everything is soaked",landslide,medium,crop_loss_risk,Mango orchard rd,Mandya,Karnataka,3,twitter,2024-08-13
+250,The orad waetr near Nagpur is full of deep potholes. mud Tractors are breaking down daily,pothole,high,delayed_transport,Nagpur,Raichur,Karnataka,4,civic_app,2024-08-17
+251,Landslide debris covering overflow dirt overflow rd near Kumargram,landslide,high,delayed_transport,Kumargram,Raichur,Karnataka,4,civic_app,2024-08-12
+252,"holes Overflowing holes straem eroded the road edge near Kumargram, dirt giving sink way",flooding,high,delayed_transport,Kumargram,Gonda,Uttar Pradesh,4,civic_app,2024-08-24
+253,"Fallen tree siol blocking soil access to Nagpur, livestock movement soil paused",blockage,high,livestock_risk,Nagpur,Nadia,West Bengal,4,twitter,2024-08-12
+254,Tree debris blocking farm road slide near Akola. Vehicles stalled,blockage,medium,delayed_transport,Akola,Nadia,West Bengal,3,news,2024-08-06
+255,Debris from fallen soil branchse and rocks blocking Harvest slide lane route after storm...,blockage,medium,delayed_transport,Harvest lane,Rampur,Uttar Pradesh,3,civic_app,2024-08-24
+256,Debirs from fallen branches and rocks slide blocking Kumargram soil route slide after slide strom,blockage,medium,delayed_transport,Kumargram,Sitapur,Uttar Pradesh,3,twitter,2024-08-02
+257,Landslide debris covering dirt road near Erode,landslide,high,delayed_transport,Erode,Rampur,Uttar Pradesh,4,twitter,2024-08-11
+258,Bridge approaching fallen Nawada cracked badly; debris trucks loaded with produce are forced to pause...,bridge_damage,high,delayed_transport,Nawada,Gonda,Uttar Pradesh,4,twitter,2024-08-12
+259,"slide Fallen tree blocking cacess slide to slide Barmer, livesotck movement soil pauesd",blockage,high,livestock_risk,Barmer,Rampur,Uttar Pradesh,4,civic_app,2024-08-05
+260,"Mudslide from heavy overflow downpour buried the overflow path to wet Theni, everything is soaked",landslide,medium,crop_loss_risk,Theni,Nadia,West Bengal,3,news,2024-08-21
+261,"rd near Nawdaa waetr has huge holes filled with with water water after rain, vehicles slipping badly",pothole,high,delayed_transport,Nawada,Mandya,Karnataka,4,twitter,2024-08-01
+262,Landslide overflow debris covering dirt road overflow near Cotton service lane,landslide,high,delayed_transport,Cotton service lane,Mandya,Karnataka,4,news,2024-08-08
+263,Tree debris soil blocking slide farm road near Meerut. soil Vehicles stalled!!,blockage,medium,delayed_transport,Meerut,Sitapur,Uttar Pradesh,3,news,2024-08-13
+264,Big potholes near mud Harvest lane slowing grain transprot,pothole,medium,delayed_transport,Harvest lane,Rampur,Uttar Pradesh,3,news,2024-08-15
+265,Small debris birdge near Katihar showing cracks; urgent safety rsik,bridge_damage,high,delayed_transport,Katihar,Sehore,Madhya Pradesh,4,twitter,2024-08-02
+266,Tree debris blocking soil farm road slide near Harvest lane. Vehicles stalled!!,blockage,medium,delayed_transport,Harvest lane,Hisar,Haryana,3,civic_app,2024-08-07
+267,Heavy rain washed out rural road near holes Akola; sink carts stuck since holes dawn,flooding,high,delayed_transport,Akola,Rampur,Uttar Pradesh,4,news,2024-08-17
+268,Debris from fallen branches and rocks blocking soil Harvest lane rouet after storm,blockage,medium,delayed_transport,Harvest lane,Sitapur,Uttar Pradesh,3,civic_app,2024-08-15
+269,"Fallen tree blocking access slide to Meerut, livestock movement paused!!",blockage,high,livestock_risk,Meerut,Hisar,Haryana,4,news,2024-08-02
+270,The road near Sunderpur is full of deep potholes. Tractors are slippery breaking down daily...!!,pothole,high,delayed_transport,Sunderpur,Rampur,Uttar Pradesh,4,civic_app,2024-08-05
+271,mud The slippery road mud near Meerut is full of deep potholes. Tractors are breaking down daily,pothole,high,delayed_transport,Meerut,Sehore,Madhya Pradesh,4,news,2024-08-13
+272,"Overflowing rcacks stream eroded the road holes dege near Kumargram, dirt giving way",flooding,high,delayed_transport,Kumargram,Gonda,Uttar Pradesh,4,civic_app,2024-08-21
+273,Landslide has cut off mountain trail to wet orchards near Barmer,landslide,critical,crop_loss_risk,Barmer,Gonda,Uttar Pradesh,5,news,2024-08-19
+274,awter Big potholes near Nagpur slowing grian transport,pothole,medium,delayed_transport,Nagpur,Sehore,Madhya Pradesh,3,news,2024-08-23
+275,Landslide debris covering dirt road wet near Mango orchard rd,landslide,high,delayed_transport,Mango orchard rd,Sitapur,Uttar Pradesh,4,civic_app,2024-08-02
+276,"Water olgging on frm service slide road to slide Katihar, tractors cannot reach ifelds",blockage,medium,delayed_transport,Katihar,Hisar,Haryana,3,twitter,2024-08-02
+277,slide has cut off wet mountain wet trail to orchards nera Latur,landslide,critical,crop_loss_risk,Latur,Nadia,West Bengal,5,twitter,2024-08-23
+278,Heavy rain washed out rural road near Latru; carts stuck since dawn,blockage,high,delayed_transport,Latur,Gonda,Uttar Pradesh,4,civic_app,2024-08-04
+279,slide Tree debris soil blocking farm road road near Sunderpur. Vehicles stalled!!,blockage,medium,delayed_transport,Sunderpur,Gonda,Uttar Pradesh,3,news,2024-08-08
+280,Heavy rain washed washed out rural road enar Theni; carts stuck since dawn...,flooding,high,delayed_transport,Theni,Sitapur,Uttar Pradesh,4,twitter,2024-08-06
+281,"Road near Cotton service water lane has huge holes filled with water water slippery after rain, vehicles slipipng badly",pothole,high,delayed_transport,Cotton service lane,Hisar,Haryana,4,civic_app,2024-08-03
+282,Tree debrsi blocking farm rd near Mango orchard rd. Vehicles stallde,blockage,medium,delayed_transport,Mango orchard rd,Mandya,Karnataka,3,civic_app,2024-08-10
+283,Landlside debris overflow covering dirt road wet near Theni,landslide,high,delayed_transport,Theni,Rampur,Uttar Pradesh,4,news,2024-08-19
+284,"Overflowing stream eroded the road edge holes near Latur, dirt giving way",flooding,high,delayed_transport,Latur,Nadia,West Bengal,4,civic_app,2024-08-11
+285,"Fallen tree blocking soil access to Mango orchard rd, ilvestock movement paused",blockage,high,livestock_risk,Mango orchard rd,Shimla,Himachal Pradesh,4,news,2024-08-19
+286,debris Small brideg near Akola showing debris cracsk; urgent asfety risk,bridge_damage,high,delayed_transport,Akola,Shimla,Himachal Pradesh,4,twitter,2024-08-18
+287,Landslide has cut off mountain trail to orcahrds near Harvest lane...,landslide,critical,crop_loss_risk,Harvest lane,Gonda,Uttar Pradesh,5,civic_app,2024-08-20
+288,Small bridge near Sunderpur showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Sunderpur,Shimla,Himachal Pradesh,4,civic_app,2024-08-16
+289,Big potholes near mud Barmer slowing grain transport,pothole,medium,delayed_transport,Barmer,Rampur,Uttar Pradesh,3,twitter,2024-08-04
+290,"Overflowing stream eroded holes the sink road holes edge near Mango orchard rd, dirt giving way",flooding,high,delayed_transport,Mango orchard rd,Rampur,Uttar Pradesh,4,twitter,2024-08-22
+291,"Mudslide from heavy downpour buried the overflow path to Mango orchard rd, wet everything wet is soaked",landslide,medium,crop_loss_risk,Mango orchard rd,Sehore,Madhya Pradesh,3,news,2024-08-21
+292,The roda water near Sunderpur is full of deep potholes. slippery Tractors are breaking odwn water daily,pothole,high,delayed_transport,Sunderpur,Shimla,Himachal Pradesh,4,civic_app,2024-08-16
+293,The road mud enar slippery Nawada is full of deep water potholes. water Tractors are breaking down daily,pothole,high,delayed_transport,Nawada,Mandya,Karnataka,4,twitter,2024-08-15
+294,"Mudslide from heavy dwonpour buried the wet path to Napgur, everything is overflow soakde!!",landslide,medium,crop_loss_risk,Nagpur,Shimla,Himachal Pradesh,3,news,2024-08-13
+295,Small brideg fallen near fallen Sunderpur hsowing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Sunderpur,Raichur,Karnataka,4,news,2024-08-19
+296,"Mudslide from heavy downpour buired path to Meerut, everything is soaked",landslide,medium,crop_loss_risk,Meerut,Sehore,Madhya Pradesh,3,news,2024-08-21
+297,Debris slide from fallen branches and rocks blocking Theni route afetr storm...,blockage,medium,delayed_transport,Theni,Raichur,Karnataka,3,twitter,2024-08-03
+298,"Fallen tree blocking access to Barmer, livestock slide movement paused",blockage,high,livestock_risk,Barmer,Sitapur,Uttar Pradesh,4,civic_app,2024-08-25
+299,"Mudslide from heavy downpour buried the path to Theni, everything is soaked",landslide,medium,crop_loss_risk,Theni,Shimla,Himachal Pradesh,3,news,2024-08-24
+300,Heavy rain sink washed out rural road near Akola; carts stuck since sink dawn,flooding,high,delayed_transport,Akola,Raichur,Karnataka,4,civic_app,2024-08-23
+301,"holes Overfolwing cracks stream eroded sink the road edge near Barmer, dirt giving holes way...",flooding,high,delayed_transport,Barmer,Sitapur,Uttar Pradesh,4,civic_app,2024-08-21
+302,Small bridge near fallen fallen Nawada showing fallen cracks; urgent safety risk,bridge_damage,high,delayed_transport,Nawada,Shimla,Himachal Pradesh,4,twitter,2024-08-22
+303,slide has overflow cut off mountain trail overflow to orchards near Erode,landslide,critical,crop_loss_risk,Erode,Sitapur,Uttar Pradesh,5,civic_app,2024-08-08
+304,"Mudslide from heavy downpour wet buried the overflow path to Latur, Latur, everything is soaked",landslide,medium,crop_loss_risk,Latur,Shimla,Himachal Pradesh,3,news,2024-08-18
+305,Landslide debris covering dirt road near Purulia,blockage,high,delayed_transport,Purulia,Rampur,Uttar Pradesh,4,news,2024-08-14
+306,fallen Small bridge naer Kumargram Kumargram showing fallen cracks; urgent safety risk,bridge_damage,high,delayed_transport,Kumargram,Raichur,Karnataka,4,news,2024-08-15
+307,Big lsippery potholes near slippery Purulia slippery slowing mud grain slippery transport,pothole,medium,delayed_transport,Purulia,Rampur,Uttar Pradesh,3,twitter,2024-08-02
+308,Debris from fallen brancehs and rocks blocking Sunderpur slide route after slide storm!!,blockage,medium,delayed_transport,Sunderpur,Sehore,Madhya Pradesh,3,news,2024-08-15
+309,Tree debris blocking farm road near Ltaur. Vehicles stalled,blockage,medium,delayed_transport,Latur,Nadia,West Bengal,3,twitter,2024-08-21
+310,Heavy rain wsahed sink out rural road near Latur; holes carts stuck since adwn,flooding,high,delayed_transport,Latur,Sehore,Madhya Pradesh,4,twitter,2024-08-25
+311,The road near mud Erode is full of slippery deep potholes. water Tractors are breaking down daily...,pothole,high,delayed_transport,Erode,Sehore,Madhya Pradesh,4,twitter,2024-08-16
+312,Heavy holes rain washed holes out rrual sink road near Sunderpur; carts stuck since dawn,flooding,high,delayed_transport,Sunderpur,Nadia,West Bengal,4,civic_app,2024-08-09
+313,"debris Cracked surface debris on fallne bridge to Akola with fallen water seeping through, looks unstable",bridge_damage,high,delayed_transport,Akola,Gonda,Uttar Pradesh,4,news,2024-08-06
+314,The raod naer Harvest lane is full of depe potholes. Tractors are breaking down daily,pothole,high,delayed_transport,Harvest lane,Shimla,Himachal Pradesh,4,civic_app,2024-08-04
+315,The road near Kumargram water is slippery full of edep potholes. Tractors are breaking down daily,pothole,high,delayed_transport,Kumargram,Hisar,Haryana,4,twitter,2024-08-21
+316,"Mudsldie wet from heavy downpour buried the overflow path to wet Harvest lane, everything is soaked",landslide,medium,crop_loss_risk,Harvest lane,Hisar,Haryana,3,news,2024-08-23
+317,Small bridge near Nagpur showing cracks; fallen urgent safety risk,bridge_damage,high,delayed_transport,Nagpur,Sitapur,Uttar Pradesh,4,twitter,2024-08-17
+318,"Road near Katihar has huge holes mud filled with mud water after rian, vehicles slipping badly",pothole,high,delayed_transport,Katihar,Rampur,Uttar Pradesh,4,civic_app,2024-08-13
+319,Landslide debris covering dirt road near Sunderpur...,landslide,high,delayed_transport,Sunderpur,Rampur,Uttar Pradesh,4,twitter,2024-08-10
+320,Landslide overflow has cut off mountain overflow trail to orchards near Latur,landslide,critical,crop_loss_risk,Latur,Rampur,Uttar Pradesh,5,news,2024-08-22
+321,"Mudslide from heavy downpour bureid the path to Meerut, overflow everything wet is soaked",landslide,medium,crop_loss_risk,Meerut,Hisar,Haryana,3,twitter,2024-08-19
+322,"Fallen wet tree blocking access to Nawada, livestock movement paused",landslide,high,livestock_risk,Nawada,Gonda,Uttar Pradesh,4,civic_app,2024-08-15
+323,mud Big pohtoles slippery enar Sunderpur slowign grain transport,pothole,medium,delayed_transport,Sunderpur,Gonda,Uttar Pradesh,3,twitter,2024-08-21
+324,Small bridge near Nawada showign cracks; urgent fallen safety risk,bridge_damage,high,delayed_transport,Nawada,Nadia,West Bengal,4,twitter,2024-08-07
+325,Landslide debirs covering wet dirt road naer Nagpur,landslide,high,delayed_transport,Nagpur,Nadia,West Bengal,4,civic_app,2024-08-11
+326,Heavy rain washed out rural road near Purulia; carst stuck since dawn,blockage,high,delayed_transport,Purulia,Raichur,Karnataka,4,news,2024-08-25
+327,"Water logging on farm service road to Barmer, tractors cannot reach fields",blockage,medium,delayed_transport,Barmer,Gonda,Uttar Pradesh,3,civic_app,2024-08-22
+328,"Road near Cotton service lane has huge holes filled mud with water after rain, slippery vehicles slipping badly",pothole,high,delayed_transport,Cotton service lane,Shimla,Himachal Pradesh,4,news,2024-08-24
+329,Debris from soil fallen branches and orcks blocking Purulia route after storm,blockage,medium,delayed_transport,Purulia,Rampur,Uttar Pradesh,3,civic_app,2024-08-18
+330,Heavy rain holes washed out rural holes road near Akola; carts stuck cracks since dawn,flooding,high,delayed_transport,Akola,Sehore,Madhya Pradesh,4,news,2024-08-23
+331,Landslide wet has wet cut off mountain trail to orhcards near Meerut,landslide,critical,crop_loss_risk,Meerut,Nadia,West Bengal,5,civic_app,2024-08-06
+332,"Water logging on farm service road to Katihar, tractors cannot cracks reach fields",flooding,medium,delayed_transport,Katihar,Rampur,Uttar Pradesh,3,twitter,2024-08-11
+333,"Fallen tree blocking access soil to Latur, livestock movement paused",blockage,high,livestock_risk,Latur,Nadia,West Bengal,4,twitter,2024-08-19
+334,"Cracked surface on bridge to debirs Meerut with debris water seeping through, fallen looks unstable",bridge_damage,high,delayed_transport,Meerut,Gonda,Uttar Pradesh,4,news,2024-08-21
+335,Small bridge near Latur fallen showing cracks; fallen urgent safety risk,bridge_damage,high,delayed_transport,Latur,Rampur,Uttar Pradesh,4,twitter,2024-08-06
+336,Landslide debris covering dirt road near Katihar!!,landslide,high,delayed_transport,Katihar,Rampur,Uttar Pradesh,4,news,2024-08-02
+337,Big slippery potholes near Kumargram slowing grain mud transport,pothole,medium,delayed_transport,Kumargram,Rampur,Uttar Pradesh,3,twitter,2024-08-25
+338,"Road near water Nawada has huge ohles filled water with water slippery after rain, vehicles slipping badly",pothole,high,delayed_transport,Nawada,Gonda,Uttar Pradesh,4,civic_app,2024-08-09
+339,Landslide has cut off mountain wet trail wet to orchards near Meerut,landslide,critical,crop_loss_risk,Meerut,Hisar,Haryana,5,twitter,2024-08-25
+340,"Road near Nawada has huge holes holes filled with water after rain, vehicles slipping badly!!",pothole,high,delayed_transport,Nawada,Nadia,West Bengal,4,civic_app,2024-08-02
+341,"fallen Cracked surface on brdg to Erode with water seeping fallen through, fallen looks debris unstable",bridge_damage,high,delayed_transport,Erode,Sehore,Madhya Pradesh,4,news,2024-08-16
+342,wet Landslide has cut off mountain trail to orchards near Theni,landslide,critical,crop_loss_risk,Theni,Sitapur,Uttar Pradesh,5,twitter,2024-08-02
+343,slide debris covering dirt road near Cotton service lane,landslide,high,delayed_transport,Cotton service lane,Raichur,Karnataka,4,twitter,2024-08-24
+344,Debirs from fallen wet branches and overflow rocks wet blocking Erode route after storm,landslide,medium,delayed_transport,Erode,Mandya,Karnataka,3,twitter,2024-08-24
+345,Heavy rain washed out rural road near Akola; acrts stuck since dawn...,flooding,high,delayed_transport,Akola,Mandya,Karnataka,4,news,2024-08-07
+346,"Road nera Harvest mud lane has huge holes filled with water after rian, vehicles mud slipping badly",pothole,high,delayed_transport,Harvest lane,Mandya,Karnataka,4,twitter,2024-08-07
+347,"Mudslide from heavy wet downpour bureid the path to Akola, everything is soaked...",landslide,medium,crop_loss_risk,Akola,Shimla,Himachal Pradesh,3,civic_app,2024-08-22
+348,slide Landslide has cut off mountain trail to orchards near uPrulia,blockage,critical,crop_loss_risk,Purulia,Sitapur,Uttar Pradesh,5,civic_app,2024-08-20
+349,fallen Small bridge near Purulia showing cracks; urgent fallen safety fallen risk,bridge_damage,high,delayed_transport,Purulia,Gonda,Uttar Pradesh,4,twitter,2024-08-21
+350,Heavy rain washed out rural road near sink Harvest lane; carts stuck since dawn,flooding,high,delayed_transport,Harvest lane,Nadia,West Bengal,4,civic_app,2024-08-14
+351,Debris from fallen branches and rocks blocking Nawada route siol after slide storm,blockage,medium,delayed_transport,Nawada,Hisar,Haryana,3,civic_app,2024-08-21
+352,"Water logging on holes farm service road to Akola, tractors sink cannot holes reach fields",flooding,medium,delayed_transport,Akola,Mandya,Karnataka,3,civic_app,2024-08-03
+353,Tree debris blocking slide farm orad near Latur. slide Vehicles stalled!!,blockage,medium,delayed_transport,Latur,Sitapur,Uttar Pradesh,3,twitter,2024-08-01
+354,Debris from fallen branches and rocks blocking Meerut route after storm,blockage,medium,delayed_transport,Meerut,Gonda,Uttar Pradesh,3,civic_app,2024-08-23
+355,Small birdge naer Theni shwoing cracks; urgent saefty riks,bridge_damage,high,delayed_transport,Theni,Shimla,Himachal Pradesh,4,civic_app,2024-08-01
+356,"Mudslide wet from ehavy downpour buried the path to Meerut, everything wet is soaked",landslide,medium,crop_loss_risk,Meerut,Gonda,Uttar Pradesh,3,news,2024-08-19
+357,"Mudslide from ehavy downpour buired the paht to wet Katihar, everything is soaked",landslide,medium,crop_loss_risk,Katihar,Mandya,Karnataka,3,civic_app,2024-08-20
+358,mSall bridge near Erode showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Erode,Sehore,Madhya Pradesh,4,twitter,2024-08-16
+359,Tree debris blocking farm road near soil Meerut. Vehicles stalled,blockage,medium,delayed_transport,Meerut,Rampur,Uttar Pradesh,3,news,2024-08-17
+360,Landslide debris covering overflow dirt road near Meerut,landslide,high,delayed_transport,Meerut,Sehore,Madhya Pradesh,4,twitter,2024-08-03
+361,slide overflow has wet wet cut off mountain trali to orchards near Mnago orchard rd,landslide,critical,crop_loss_risk,Mango orchard rd,Sehore,Madhya Pradesh,5,news,2024-08-08
+362,"Water logging on farm serivce rd to aMngo orchard rd, tractors cannot slide reach fields",blockage,medium,delayed_transport,Mango orchard rd,Mandya,Karnataka,3,news,2024-08-10
+363,"Fallen tree blocking access to slide Nagpur, livestock movement silde paused!!",blockage,high,livestock_risk,Nagpur,Nadia,West Bengal,4,twitter,2024-08-05
+364,"Water logging on famr service road cracks to Harvest lane, tractors holes cannot cracks reach fields",flooding,medium,delayed_transport,Harvest lane,Nadia,West Bengal,3,civic_app,2024-08-02
+365,Landslide debris covering dirt road near Theni,blockage,high,delayed_transport,Theni,Sitapur,Uttar Pradesh,4,news,2024-08-09
+366,"Overflowing stream holes eroded the road edge near Erode, dirt giving way",flooding,high,delayed_transport,Erode,Shimla,Himachal Pradesh,4,civic_app,2024-08-25
+367,"Cracked dberis surface on bridge to Nawada with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Nawada,Shimla,Himachal Pradesh,4,news,2024-08-11
+368,Landslide debris covering overflow dirt road near Mango wet orchard rd,landslide,high,delayed_transport,Mango orchard rd,Sehore,Madhya Pradesh,4,civic_app,2024-08-20
+369,Big potholes near Erode slowing grain mud mud transport...,pothole,medium,delayed_transport,Erode,Sehore,Madhya Pradesh,3,civic_app,2024-08-19
+370,"Water cracks logging on farm service snik road to Mango orchard rd, tractors canont reach fields...",flooding,medium,delayed_transport,Mango orchard rd,Shimla,Himachal Pradesh,3,civic_app,2024-08-01
+371,"Mudslide from heavy downpour buried the path to Meerut, everything is wet sokaed",landslide,medium,crop_loss_risk,Meerut,Hisar,Haryana,3,twitter,2024-08-25
+372,Heavy rain washed slide out rural road near Harvest soil lane; carts stuck soil since dawn,blockage,high,delayed_transport,Harvest lane,Sitapur,Uttar Pradesh,4,news,2024-08-05
+373,"Overflowing crcaks stream eroded the road edge naer Thein, ditr giving way",flooding,high,delayed_transport,Theni,Raichur,Karnataka,4,civic_app,2024-08-22
+374,Landslide debris covering dirt road near Katihar,landslide,high,delayed_transport,Katihar,Sitapur,Uttar Pradesh,4,news,2024-08-15
+375,debris Bridge approaching Erode cracked fallen badly; debris trucks loaded with produce fallen are fallen forced to pause,bridge_damage,high,delayed_transport,Erode,Mandya,Karnataka,4,civic_app,2024-08-06
+376,"Water cracks logging on farm service road sink to Katihar, holes tractors cannot reach fields",flooding,medium,delayed_transport,Katihar,Nadia,West Bengal,3,civic_app,2024-08-16
+377,"carcks Overflowing steram holes eroded the road edge near holes Sunderpur, dirt giving way",flooding,high,delayed_transport,Sunderpur,Shimla,Himachal Pradesh,4,civic_app,2024-08-02
+378,"Mudslide from heavy downpour buried the path to wet Magno wet orchard rd, everything is soaked",landslide,medium,crop_loss_risk,Mango orchard rd,Raichur,Karnataka,3,news,2024-08-20
+379,Debris from soil fallen branches and rocks blocking soil Cotton service lane route after storm,blockage,medium,delayed_transport,Cotton service lane,Hisar,Haryana,3,civic_app,2024-08-08
+380,Small brideg enar Sunderpur showign crcaks; urgent fallen safety risk...,bridge_damage,high,delayed_transport,Sunderpur,Hisar,Haryana,4,civic_app,2024-08-10
+381,Landslide has cut off mountain trail wet to orchards near Theni,landslide,critical,crop_loss_risk,Theni,Shimla,Himachal Pradesh,5,news,2024-08-02
+382,"Road near Katihar has huge ohles filled with water after rain, vehicles slipping badly",pothole,high,delayed_transport,Katihar,Raichur,Karnataka,4,twitter,2024-08-14
+383,"Mudslide from soil heavy downopur buried the path to Mango orcahrd rd, everything slide is soaked",blockage,medium,crop_loss_risk,Mango orchard rd,Shimla,Himachal Pradesh,3,news,2024-08-23
+384,Landslide has cut off mountain trail to wet orchards near Akola,landslide,critical,crop_loss_risk,Akola,Gonda,Uttar Pradesh,5,civic_app,2024-08-13
+385,"sikn Water logging on farm service road to Barmer, tractors cannot reach fields",flooding,medium,delayed_transport,Barmer,Shimla,Himachal Pradesh,3,civic_app,2024-08-18
+386,The rd near Theni is full of depe potholes. Tractors are breaking down daily,pothole,high,delayed_transport,Theni,Sitapur,Uttar Pradesh,4,civic_app,2024-08-04
+387,overflow Debris from faleln wet branches and rocks blocking Purulia route after storm,landslide,medium,delayed_transport,Purulia,Hisar,Haryana,3,civic_app,2024-08-16
+388,The mud road nera slippery Nawada is full mud of deep ptoholes. Tractors mud are breaking down daily,pothole,high,delayed_transport,Nawada,Hisar,Haryana,4,twitter,2024-08-03
+389,Tree debris blocking frm rd near Barmer. Vehciles stalled!!,blockage,medium,delayed_transport,Barmer,Gonda,Uttar Pradesh,3,civic_app,2024-08-23
+390,"Water logging on farm holes serviec road to Katihar, tractors cannot reach cracks ifelds!!",flooding,medium,delayed_transport,Katihar,Sehore,Madhya Pradesh,3,civic_app,2024-08-22
+391,Landslide has cut off mountain trail to orchards near Meerut,blockage,critical,crop_loss_risk,Meerut,Sehore,Madhya Pradesh,5,news,2024-08-14
+392,The fallen road near Cotton service lane fallen is full of deep potholes. Tractors are breaking debris down daily,bridge_damage,high,delayed_transport,Cotton service lane,Mandya,Karnataka,4,twitter,2024-08-23
+393,Small bridge near Kumargram showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Kumargram,Sehore,Madhya Pradesh,4,news,2024-08-07
+394,"Road near Katihar has slippery huge holes filled iwth water after rain, vehicles slipping badly",pothole,high,delayed_transport,Katihar,Shimla,Himachal Pradesh,4,news,2024-08-02
+395,Big potholes water near water Kaithar water slowing grain transport,pothole,medium,delayed_transport,Katihar,Gonda,Uttar Pradesh,3,news,2024-08-18
+396,"Water logging on farm service road to Harvest sink lane, tractors cannot reahc cracks fields",flooding,medium,delayed_transport,Harvest lane,Raichur,Karnataka,3,news,2024-08-01
+397,"Fallen tree blocking access slide to Cotton service lnae, livestock movemnet paused",blockage,high,livestock_risk,Cotton service lane,Nadia,West Bengal,4,news,2024-08-01
+398,faleln Small bridge near Nawada showing cracks; rugent safety risk,bridge_damage,high,delayed_transport,Nawada,Gonda,Uttar Pradesh,4,news,2024-08-09
+399,Debris rfom fallen soil branches and rocks blocking Mango orchard rd route after storm,blockage,medium,delayed_transport,Mango orchard rd,Rampur,Uttar Pradesh,3,civic_app,2024-08-17
+400,"cracks Overflowing stream eroded the road edge edge near Sunderpur, dirt giving way",flooding,high,delayed_transport,Sunderpur,Mandya,Karnataka,4,news,2024-08-17
+401,"Overflowing stream eroded the road edge near near Nawada, dirt giving way",flooding,high,delayed_transport,Nawada,Rampur,Uttar Pradesh,4,news,2024-08-07
+402,Small debris bridge near fallen Erode showing cracks; urgent fallen safety irsk,bridge_damage,high,delayed_transport,Erode,Mandya,Karnataka,4,news,2024-08-13
+403,"Water logging on frm service road to Cotton service alne, tractors cannot reach fields",flooding,medium,delayed_transport,Cotton service lane,Gonda,Uttar Pradesh,3,civic_app,2024-08-19
+404,Landslide slide has cut off mountain trail to slide orchards near Mango orchard rd...,blockage,critical,crop_loss_risk,Mango orchard rd,Raichur,Karnataka,5,news,2024-08-17
+405,Landslide has cut off mountain trail to orchards naer slide Barmer!!,blockage,critical,crop_loss_risk,Barmer,Mandya,Karnataka,5,news,2024-08-04
+406,aLndslide has cut off mountain trail to orchards naer Purulia,landslide,critical,crop_loss_risk,Purulia,Gonda,Uttar Pradesh,5,news,2024-08-22
+407,"water Road near Mango slippery orchard waetr rd has huge holes filled with water slippery after rain, vehicles slippery slipping badly",pothole,high,delayed_transport,Mango orchard rd,Shimla,Himachal Pradesh,4,twitter,2024-08-02
+408,Landslide overflow debris covering dirt road near Mango orhcard rd,landslide,high,delayed_transport,Mango orchard rd,Sitapur,Uttar Pradesh,4,news,2024-08-23
+409,Debris from fallen branches and rocks blocking soil Kumargram route after storm...,blockage,medium,delayed_transport,Kumargram,Gonda,Uttar Pradesh,3,civic_app,2024-08-07
+410,Tree debris blocking farm roda near Erode. Vehicles stalled stalled,blockage,medium,delayed_transport,Erode,Shimla,Himachal Pradesh,3,twitter,2024-08-11
+411,Debris from soil fallen branches and rocks soil blocking silde Meerut route soil after storm,blockage,medium,delayed_transport,Meerut,Raichur,Karnataka,3,twitter,2024-08-18
+412,"slippery oRad near Purulia silppery has huge holes filled with water after rain, vehicles slipping badly",pothole,high,delayed_transport,Purulia,Hisar,Haryana,4,twitter,2024-08-12
+413,"Cracked surface on debris bridge to Latur with water seeping throuhg, looks unstable",bridge_damage,high,delayed_transport,Latur,Shimla,Himachal Pradesh,4,news,2024-08-13
+414,"holes Water logging on sink farm serviec road to Katihar, tractors cannot crcaks reach fields",flooding,medium,delayed_transport,Katihar,Shimla,Himachal Pradesh,3,twitter,2024-08-09
+415,"Water logging on farm service holes road to Harvest lane, tractors cannot reach fields",flooding,medium,delayed_transport,Harvest lane,Mandya,Karnataka,3,civic_app,2024-08-22
+416,wet Landslide wet has cut overflow off overflow mountain wet trail wet to orchards overlfow near Latur,landslide,critical,crop_loss_risk,Latur,Mandya,Karnataka,5,news,2024-08-18
+417,Tree debris blocking farm road near Sunderpur. Vehicles stalled,blockage,medium,delayed_transport,Sunderpur,Mandya,Karnataka,3,civic_app,2024-08-08
+418,Bridge debris approaching Akola debris cracked badly; debris trucks loaded with produce debris are forced to debris pause,bridge_damage,high,delayed_transport,Akola,Hisar,Haryana,4,civic_app,2024-08-10
+419,slide Tree debris blocking farm orad slide near Nawada. Vehicles stalled,blockage,medium,delayed_transport,Nawada,Sitapur,Uttar Pradesh,3,news,2024-08-17
+420,Landslide has cut overflow off mountani trail to orchards enar Akola,landslide,critical,crop_loss_risk,Akola,Sitapur,Uttar Pradesh,5,news,2024-08-09
+421,"Mudslide from heavy downpour buried the path to Cottno service lane, everything is soaked",landslide,medium,crop_loss_risk,Cotton service lane,Nadia,West Bengal,3,news,2024-08-04
+422,overflow Landslide has wet cut off mountain trail trail to wet orchards near aKtihar,landslide,critical,crop_loss_risk,Katihar,Gonda,Uttar Pradesh,5,civic_app,2024-08-09
+423,soil Tree debris blocking slide frm slide road enar soil Erode. Vehicles stalled,blockage,medium,delayed_transport,Erode,Rampur,Uttar Pradesh,3,twitter,2024-08-14
+424,Tree debris blocking farm road near Akola. Vehicles stalled,blockage,medium,delayed_transport,Akola,Rampur,Uttar Pradesh,3,twitter,2024-08-07
+425,Big slippery potholes slippery near water Nagpur slowing grain transport,pothole,medium,delayed_transport,Nagpur,Mandya,Karnataka,3,twitter,2024-08-18
+426,"lside Fallen tree soil blocking slide cacess to Latur, livestock movement paused",blockage,high,livestock_risk,Latur,Shimla,Himachal Pradesh,4,civic_app,2024-08-21
+427,Landslide debris covering dirt road overflow near Latur,landslide,high,delayed_transport,Latur,Sitapur,Uttar Pradesh,4,news,2024-08-16
+428,"Fallen tree blocking slide access to Mango orchard soil rd, sldie livestock movement paused...",blockage,high,livestock_risk,Mango orchard rd,Sitapur,Uttar Pradesh,4,civic_app,2024-08-16
+429,The road near Nawada is full of deep potholes. Tractors water are breaking water down daily,pothole,high,delayed_transport,Nawada,Raichur,Karnataka,4,twitter,2024-08-23
+430,Big potholes near Meerut slowing mud grani transport,pothole,medium,delayed_transport,Meerut,Nadia,West Bengal,3,news,2024-08-25
+431,"holes Water lgoging on farm service road to Cotton service lane, tractors cannot recah ifelds",flooding,medium,delayed_transport,Cotton service lane,Nadia,West Bengal,3,twitter,2024-08-07
+432,Tree debris blocking soil farm road near slide Cotton service lane. Vehicles stalled,blockage,medium,delayed_transport,Cotton service lane,Shimla,Himachal Pradesh,3,news,2024-08-13
+433,Heavy rain washed cracks out rural cracks road near Barmer; carts stuck since dawn,flooding,high,delayed_transport,Barmer,Sehore,Madhya Pradesh,4,civic_app,2024-08-03
+434,"Crakced fallen surface on bridge to Latur with water seeping through, lokos unstable",bridge_damage,high,delayed_transport,Latur,Sehore,Madhya Pradesh,4,news,2024-08-13
+435,slippery Big water potholes nera Nawada slowing water grain transport,pothole,medium,delayed_transport,Nawada,Hisar,Haryana,3,civic_app,2024-08-06
+436,Big potholes near Meerut slowing grain transport,pothole,medium,delayed_transport,Meerut,Sitapur,Uttar Pradesh,3,civic_app,2024-08-24
+437,"Overflowing stream eroded cracks road edge near Theni, holes dirt giving way",flooding,high,delayed_transport,Theni,Rampur,Uttar Pradesh,4,civic_app,2024-08-10
+438,wet Debris from fallen branches overflow and rocks blocking hTeni route after storm,landslide,medium,delayed_transport,Theni,Gonda,Uttar Pradesh,3,twitter,2024-08-21
+439,Small bridge near Erode showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Erode,Raichur,Karnataka,4,news,2024-08-01
+440,"Fallen tree slide blocking slide access to Cotton service lane, livestock movement paused",blockage,high,livestock_risk,Cotton service lane,Rampur,Uttar Pradesh,4,twitter,2024-08-01
+441,slide Derbis Debrsi frmo fallen branches and slide rocks blocking soil Erode route afetr storm!!,blockage,medium,delayed_transport,Erode,Gonda,Uttar Pradesh,3,news,2024-08-15
+442,fallen Small bridge near Meerut shwoing debrsi cracks; urgent safety fallen risk,bridge_damage,high,delayed_transport,Meerut,Nadia,West Bengal,4,news,2024-08-12
+443,"Mudslide from heavy downpour buried the path to Mango overflow orchard overflow rd, everytihng is osaked",landslide,medium,crop_loss_risk,Mango orchard rd,Rampur,Uttar Pradesh,3,twitter,2024-08-08
+444,Small bridge near Purulia showing cracks; urgent safety debris risk,bridge_damage,high,delayed_transport,Purulia,Nadia,West Bengal,4,civic_app,2024-08-15
+445,Tree debris blocking soil frm road naer Cotton service lane. Vehicles stalled!!,blockage,medium,delayed_transport,Cotton service lane,Mandya,Karnataka,3,civic_app,2024-08-05
+446,Heavy rani washed out rural road holes near Katihar; carts holes stuck since dawn,flooding,high,delayed_transport,Katihar,Rampur,Uttar Pradesh,4,twitter,2024-08-02
+447,Debris rfom fallen branches and rocks blocking Kumargram route after storm,blockage,medium,delayed_transport,Kumargram,Hisar,Haryana,3,news,2024-08-15
+448,Big potholes near Barmer slowing slippery grain slippery transport,pothole,medium,delayed_transport,Barmer,Raichur,Karnataka,3,twitter,2024-08-16
+449,"Mudsldie from heavy downpour buried wet the path to Sunderpur, everything is soaked",landslide,medium,crop_loss_risk,Sunderpur,Sehore,Madhya Pradesh,3,civic_app,2024-08-08
+450,"Road near Erode has huge holes filled with mud water after slippery rain, vehicles slipping badly!!",pothole,high,delayed_transport,Erode,Sehore,Madhya Pradesh,4,civic_app,2024-08-16
+451,"Fallen slide tree blocking access to Nagpur, slide livestock movement soil paused",blockage,high,livestock_risk,Nagpur,Mandya,Karnataka,4,twitter,2024-08-04
+452,Tree debris blocking farm rd near Akola. Vehicles slide stalled,blockage,medium,delayed_transport,Akola,Rampur,Uttar Pradesh,3,civic_app,2024-08-02
+453,wet Landslide wet debris covering dirt road near Akola,landslide,high,delayed_transport,Akola,Rampur,Uttar Pradesh,4,civic_app,2024-08-22
+454,Landslide has cut off mountani trail to orchards near oevrflow Theni,landslide,critical,crop_loss_risk,Theni,Shimla,Himachal Pradesh,5,twitter,2024-08-11
+455,Debris from fallen branches and rocks blocking Kumargram route after storm,blockage,medium,delayed_transport,Kumargram,Sitapur,Uttar Pradesh,3,civic_app,2024-08-24
+456,"Mudsldie voerflow from heavy downpour buried the path to overflow Erode, everything is soaked",landslide,medium,crop_loss_risk,Erode,Shimla,Himachal Pradesh,3,news,2024-08-11
+457,Landslide overflow has cut off mountain trail to orchards near Akola,landslide,critical,crop_loss_risk,Akola,Shimla,Himachal Pradesh,5,civic_app,2024-08-19
+458,Bridge approaching Harvest lane cracked badly; trucks loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Harvest lane,Hisar,Haryana,4,twitter,2024-08-19
+459,"Water logging on holes farm service road to sink Nagpur, tractros cracks cannot reach fields",flooding,medium,delayed_transport,Nagpur,Nadia,West Bengal,3,civic_app,2024-08-07
+460,Bridge paproaching Sunderpur cracked badly; trucks loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Sunderpur,Hisar,Haryana,4,civic_app,2024-08-19
+461,"Overflowing stream eroded rd edge soil enar Mango orchard rd, dirt giving way",blockage,high,delayed_transport,Mango orchard rd,Sitapur,Uttar Pradesh,4,twitter,2024-08-02
+462,Heavy cracks rain isnk washed out rural road near Meerut; Meerut; carts stuck since dawn,flooding,high,delayed_transport,Meerut,Sitapur,Uttar Pradesh,4,news,2024-08-01
+463,Landslide debris overflow covering dirt road near Katihar!!,landslide,high,delayed_transport,Katihar,Shimla,Himachal Pradesh,4,twitter,2024-08-08
+464,Small bridge near Latur showing cracks; urgetn debris debris safety risk,bridge_damage,high,delayed_transport,Latur,Rampur,Uttar Pradesh,4,news,2024-08-08
+465,Bridge fallen approaching Erode cracked badyl; trucks loaded with produce are forced fallen to pause,bridge_damage,high,delayed_transport,Erode,Nadia,West Bengal,4,twitter,2024-08-04
+466,The rd awter near Theni is full of deep potholes. Tractors are rbeaking water down daily,pothole,high,delayed_transport,Theni,Hisar,Haryana,4,twitter,2024-08-13
+467,Bridge approaching Latur cracked badly; trucks loaded water iwth produce are forced to pause,pothole,high,delayed_transport,Latur,Raichur,Karnataka,4,news,2024-08-11
+468,"Road slippery near Meerut has huge slippery hoels filled with water after slippery rain, vehicles slipping badyl",pothole,high,delayed_transport,Meerut,Hisar,Haryana,4,news,2024-08-13
+469,Landslide debris wet covering dirt wet road near Theni,landslide,high,delayed_transport,Theni,Nadia,West Bengal,4,news,2024-08-06
+470,"slide Overflowing stream eroded the soil road edge near Nawada, dirt giving way!!",blockage,high,delayed_transport,Nawada,Rampur,Uttar Pradesh,4,civic_app,2024-08-17
+471,"Road enar eMerut has hgue holes filled water with water after rain, vehicles slipping badly",pothole,high,delayed_transport,Meerut,Nadia,West Bengal,4,news,2024-08-22
+472,Debris from fallen branches and rocks blocking Meerut route after soil storm,blockage,medium,delayed_transport,Meerut,Nadia,West Bengal,3,civic_app,2024-08-13
+473,"Watre logging on farm service road to Latur, tractors cannot reach fields",flooding,medium,delayed_transport,Latur,Gonda,Uttar Pradesh,3,twitter,2024-08-17
+474,Lnadslide debris coverign wet dirt wet road near Cotton service lane,landslide,high,delayed_transport,Cotton service lane,Raichur,Karnataka,4,news,2024-08-04
+475,Tree debris blocking slide farm road near Purulia. Vehicles stalled,blockage,medium,delayed_transport,Purulia,Gonda,Uttar Pradesh,3,twitter,2024-08-16
+476,"crkd debris surface on bridge to Akola debris with water seeping through, debris looks unstable",bridge_damage,high,delayed_transport,Akola,Gonda,Uttar Pradesh,4,civic_app,2024-08-10
+477,"Mudslide from heavy overflow downpour buried the path wet to Mango orchard rd, everything voerflow is overflow soaked",landslide,medium,crop_loss_risk,Mango orchard rd,Sitapur,Uttar Pradesh,3,civic_app,2024-08-09
+478,Bridge approaching Sunderpur crakced badly; trucks loaded with produce are froced to pause,bridge_damage,high,delayed_transport,Sunderpur,Nadia,West Bengal,4,news,2024-08-05
+479,Debris from slide fallen branches and rocks slide blocking Katihar route after storm,blockage,medium,delayed_transport,Katihar,Rampur,Uttar Pradesh,3,news,2024-08-18
+480,"debris Cracked afllen surface on bridge to Theni fallen with water seeping fallen through, lokos unstable",bridge_damage,high,delayed_transport,Theni,Mandya,Karnataka,4,news,2024-08-17
+481,Birdge approaching Nagpur cracked badly; trucks loaded fallen with produce are forced to pause,bridge_damage,high,delayed_transport,Nagpur,Rampur,Uttar Pradesh,4,twitter,2024-08-22
+482,wet Landslide has cut off mountain overflow trail to wet orchards near Katihra,landslide,critical,crop_loss_risk,Katihar,Rampur,Uttar Pradesh,5,civic_app,2024-08-03
+483,"Mudslide from wet heavy downpuor buried the path to Harvest lane, everything is soaked",landslide,medium,crop_loss_risk,Harvest lane,Mandya,Karnataka,3,news,2024-08-20
+484,Landslide debris covering dirt road near Meerut,landslide,high,delayed_transport,Meerut,Mandya,Karnataka,4,civic_app,2024-08-24
+485,water Big potholes near Akola slowing grain transport,pothole,medium,delayed_transport,Akola,Nadia,West Bengal,3,twitter,2024-08-23
+486,overflow Landslide overflow debris covering overflow dirt orad near Theni,landslide,high,delayed_transport,Theni,Raichur,Karnataka,4,twitter,2024-08-24
+487,Tree debris blocking afrm road near Mango orchard rd. Vehiclse slide stalled,blockage,medium,delayed_transport,Mango orchard rd,Sehore,Madhya Pradesh,3,news,2024-08-03
+488,"Water logging on cracks farm service road to to Sunderpur, tractors cannot reach fields",flooding,medium,delayed_transport,Sunderpur,Hisar,Haryana,3,civic_app,2024-08-19
+489,Landsldie overflow debris covreing dirt roda near wet Nawada,landslide,high,delayed_transport,Nawada,Rampur,Uttar Pradesh,4,news,2024-08-15
+490,Debris from soil fallen branches slide and rocks blocking Katihar route after storm,blockage,medium,delayed_transport,Katihar,Sehore,Madhya Pradesh,3,news,2024-08-06
+491,Bridge approaching Erode cracked badly; trucks oladed wtih fallen produce are forced to fallen pause,bridge_damage,high,delayed_transport,Erode,Gonda,Uttar Pradesh,4,twitter,2024-08-17
+492,Bridge approaching Mango fallen orchard rd cracked badly; trucks loaded with rpoduce fallen are fallen forced debrsi to faleln paues,bridge_damage,high,delayed_transport,Mango orchard rd,Sehore,Madhya Pradesh,4,twitter,2024-08-16
+493,Landslide has cut off mountain trail to orchards near Mango orchard rd,landslide,critical,crop_loss_risk,Mango orchard rd,Sitapur,Uttar Pradesh,5,twitter,2024-08-02
+494,Landslide has cut off wet mountain trail to orchards near Kumargram,landslide,critical,crop_loss_risk,Kumargram,Hisar,Haryana,5,news,2024-08-18
+495,"Fallen tree blocking access to Purulia, livestcok movement paused!!",blockage,high,livestock_risk,Purulia,Sehore,Madhya Pradesh,4,twitter,2024-08-18
+496,"Overflowing stream eroded the road edge cracks near Kumargram, dirt giving way",flooding,high,delayed_transport,Kumargram,Shimla,Himachal Pradesh,4,twitter,2024-08-22
+497,Bridge approaching Sunderpur cracked badly; trucks fallen loaedd with produce fallen are debris focred to pause!!,bridge_damage,high,delayed_transport,Sunderpur,Sitapur,Uttar Pradesh,4,twitter,2024-08-22
+498,"Cracekd surface on brdg to Harvest lane mud with water seeping through, looks unstable!!",pothole,high,delayed_transport,Harvest lane,Sitapur,Uttar Pradesh,4,news,2024-08-03
+499,The road near Sunderpur is full of slippery deep potholse. Tractors are breaking down daily,pothole,high,delayed_transport,Sunderpur,Mandya,Karnataka,4,twitter,2024-08-03
+500,fallen mSall bridge fallen near Purulia dberis shownig cracks; urgent safety irsk,bridge_damage,high,delayed_transport,Purulia,Mandya,Karnataka,4,twitter,2024-08-05
+501,slide debris covering dirt road enar Mango orchard rd...,landslide,high,delayed_transport,Mango orchard rd,Hisar,Haryana,4,news,2024-08-12
+502,"Water logging on slide fram slide service road to Theni, soil tractors cannto reach soil fields",blockage,medium,delayed_transport,Theni,Rampur,Uttar Pradesh,3,civic_app,2024-08-04
+503,Big pothl near Theni slowing grain transport,flooding,medium,delayed_transport,Theni,Sehore,Madhya Pradesh,3,civic_app,2024-08-04
+504,"Fallen soil tree blocking access to Erode, livestock movement paused",blockage,high,livestock_risk,Erode,Rampur,Uttar Pradesh,4,twitter,2024-08-23
+505,The slippery road enar slippery Katihar is full slippery of deep potholes. Tractors are mud beraking down water daily,pothole,high,delayed_transport,Katihar,Rampur,Uttar Pradesh,4,twitter,2024-08-16
+506,Landslide has cut voerflow off mountain trail to orchards wet near Nawada,landslide,critical,crop_loss_risk,Nawada,Hisar,Haryana,5,civic_app,2024-08-13
+507,"Overflowing stream sikn eroded the road edge near Erode, dirt giving way",flooding,high,delayed_transport,Erode,Sitapur,Uttar Pradesh,4,civic_app,2024-08-05
+508,"Overflowing stream eroded sink the road edge near Harvest lane, dirt giving way",flooding,high,delayed_transport,Harvest lane,Shimla,Himachal Pradesh,4,twitter,2024-08-12
+509,"Road near Sunderpur has huge holes mud filled with water after rain, vehicles slipping badly",pothole,high,delayed_transport,Sunderpur,Shimla,Himachal Pradesh,4,news,2024-08-13
+510,"Overflowing stream eroded cracks the road edge near Akola, dirt giving way",flooding,high,delayed_transport,Akola,Sehore,Madhya Pradesh,4,twitter,2024-08-08
+511,"Water logging on farm service road to Cotton service lane, tractors cannot reach fields",flooding,medium,delayed_transport,Cotton service lane,Sitapur,Uttar Pradesh,3,civic_app,2024-08-15
+512,Heavy rain washed out rural road near Mango orchard rd; carts stuck holes since dwan,flooding,high,delayed_transport,Mango orchard rd,Sehore,Madhya Pradesh,4,twitter,2024-08-25
+513,"Road near mud Akola has huge holes water filled with iwth water after water rain, vehicles slipping badly",pothole,high,delayed_transport,Akola,Shimla,Himachal Pradesh,4,civic_app,2024-08-21
+514,Debris from fallen branches and rocks blocking Barmer route after storm,blockage,medium,delayed_transport,Barmer,Raichur,Karnataka,3,twitter,2024-08-16
+515,Big optholes near Latur slowing grain transport,pothole,medium,delayed_transport,Latur,Hisar,Haryana,3,civic_app,2024-08-18
+516,"Road enar Erode has huge holes filled with water after rain, water vehicles slipping badly",pothole,high,delayed_transport,Erode,Sitapur,Uttar Pradesh,4,civic_app,2024-08-11
+517,Tree debris blocking farm road soil near Kumargram. Vehicels stalled,blockage,medium,delayed_transport,Kumargram,Hisar,Haryana,3,civic_app,2024-08-10
+518,"Road near Nawada has huge holes filled with water water after rain, vehicles slipping bdaly...",pothole,high,delayed_transport,Nawada,Raichur,Karnataka,4,twitter,2024-08-22
+519,cracsk The road near Latur is full of deep potholes. Tractors are breaking down daily,flooding,high,delayed_transport,Latur,Gonda,Uttar Pradesh,4,civic_app,2024-08-23
+520,"wet Mudslide from heavy downpour buried apth to overflow Nagpur, everything is soaked",landslide,medium,crop_loss_risk,Nagpur,Raichur,Karnataka,3,civic_app,2024-08-15
+521,overflow Landslide debris covering dirt wet road wet near Barmer,landslide,high,delayed_transport,Barmer,Nadia,West Bengal,4,news,2024-08-08
+522,"Water logging on farm service road to Purulia, tractors cannot reach fields",flooding,medium,delayed_transport,Purulia,Hisar,Haryana,3,news,2024-08-03
+523,"Cracked surface on bridge to Mango orchard rd with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Mango orchard rd,Nadia,West Bengal,4,twitter,2024-08-01
+524,"Overflowing holes stream eroded rd road edge near Cotton service lane, dirt giving cracks way",flooding,high,delayed_transport,Cotton service lane,Gonda,Uttar Pradesh,4,civic_app,2024-08-23
+525,Landslide debris covering wet dirt road overflow near Nawada,landslide,high,delayed_transport,Nawada,Raichur,Karnataka,4,news,2024-08-06
+526,"Overflowing strema eroded the road soil edge near Katihar, dirt giving way",blockage,high,delayed_transport,Katihar,Rampur,Uttar Pradesh,4,civic_app,2024-08-16
+527,Small water bridge near water Mango orchard rd showing water cracks; urgent safety risk,pothole,high,delayed_transport,Mango orchard rd,Nadia,West Bengal,4,twitter,2024-08-07
+528,Landslide wet has cut off mountain trail to orchards near Nawada,landslide,critical,crop_loss_risk,Nawada,Gonda,Uttar Pradesh,5,civic_app,2024-08-05
+529,slippery The road near Erode mud is full of deep water potholes. Tractors slippery are breaking down daily,pothole,high,delayed_transport,Erode,Sehore,Madhya Pradesh,4,civic_app,2024-08-03
+530,Bridge approaching Erode cracekd badly; trucks loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Erode,Shimla,Himachal Pradesh,4,news,2024-08-02
+531,soil Debris from fallen branches and rocks blocking Harvest lane route soil after storm,blockage,medium,delayed_transport,Harvest lane,Gonda,Uttar Pradesh,3,twitter,2024-08-24
+532,"Mudslide from heavy downporu buried path to Sunderpur, everything wet is overflow soaked",landslide,medium,crop_loss_risk,Sunderpur,Sehore,Madhya Pradesh,3,news,2024-08-14
+533,Tree debris blocking frm road soil near Nagpur. Vehilces soil stalled,blockage,medium,delayed_transport,Nagpur,Rampur,Uttar Pradesh,3,news,2024-08-08
+534,Small bridge near Kaithar showing cracks; fallen urgent asfety fallen risk,bridge_damage,high,delayed_transport,Katihar,Rampur,Uttar Pradesh,4,twitter,2024-08-12
+535,"Mudslide from heavy dowpnour buried the path to overflow Nagpur, everything is soaked",landslide,medium,crop_loss_risk,Nagpur,Sehore,Madhya Pradesh,3,news,2024-08-13
+536,"Mudslide from heavy overflow downpour buried the overflow path to overflow Nagpur, overflow everything is soaked",landslide,medium,crop_loss_risk,Nagpur,Sitapur,Uttar Pradesh,3,twitter,2024-08-24
+537,"Fallen tree blockign access to slide Sunderpur, livestock movement paused",blockage,high,livestock_risk,Sunderpur,Hisar,Haryana,4,civic_app,2024-08-06
+538,"Road near Cotton service lane has huge holes filled with water after rain, vehicles slipping badly",bridge_damage,high,delayed_transport,Cotton service lane,Hisar,Haryana,4,twitter,2024-08-23
+539,Landslide debris covering dirt road near Erode...,landslide,high,delayed_transport,Erode,Sitapur,Uttar Pradesh,4,civic_app,2024-08-12
+540,Debris from fallen cracks branches and rocks blocking Meerut route sink after storm,flooding,medium,delayed_transport,Meerut,Rampur,Uttar Pradesh,3,civic_app,2024-08-04
+541,brdg approaching Kumargram cracked badly; trucks loaded with afllen produce are forced to pause,bridge_damage,high,delayed_transport,Kumargram,Gonda,Uttar Pradesh,4,civic_app,2024-08-10
+542,Big potholes near Nagpur slowing grain transport...,pothole,medium,delayed_transport,Nagpur,Sitapur,Uttar Pradesh,3,twitter,2024-08-20
+543,Bridge approaching Katihar cracked badly; trucks fallen loaded fallen with produce are debris forced to pause,bridge_damage,high,delayed_transport,Katihar,Sehore,Madhya Pradesh,4,twitter,2024-08-05
+544,"cracks Overflowing holes stream eroded road edge naer Barmer, dirt holes giving way",flooding,high,delayed_transport,Barmer,Shimla,Himachal Pradesh,4,twitter,2024-08-04
+545,"Road water near Cotton service lane has huge holes filled with water atfer rain, vehicles slipping badly...",pothole,high,delayed_transport,Cotton service lane,Raichur,Karnataka,4,news,2024-08-13
+546,slide has cut off overflow mountain trail to orchards overfolw near Theni,landslide,critical,crop_loss_risk,Theni,Nadia,West Bengal,5,news,2024-08-16
+547,Bridge approaching Nawada crcaked badly; trucks loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Nawada,Nadia,West Bengal,4,twitter,2024-08-10
+548,Small bridge near Harvest Harvest afllen lane showing cracks; urgent safety risk...,bridge_damage,high,delayed_transport,Harvest lane,Sehore,Madhya Pradesh,4,civic_app,2024-08-06
+549,"Cracked surface slippery on bridge to water Mango slippery orchard rd with water sepeing through, looks unstable",pothole,high,delayed_transport,Mango orchard rd,Sehore,Madhya Pradesh,4,news,2024-08-21
+550,"Cracked surface on bridge to fallen Nawada with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Nawada,Nadia,West Bengal,4,news,2024-08-06
+551,"Fallen tree blocking access to Mango orchard rd, osil livestock slide movement paused",blockage,high,livestock_risk,Mango orchard rd,Shimla,Himachal Pradesh,4,twitter,2024-08-09
+552,"Crcaked surface on brideg debris to Mango orchard rd with water seeping debris through, looks unstable",bridge_damage,high,delayed_transport,Mango orchard rd,Raichur,Karnataka,4,news,2024-08-03
+553,"Road slippery near aHrvest lane has huge holes filled slippery with silppery water after rain, slpipery vehicles slippery slipping badly",pothole,high,delayed_transport,Harvest lane,Shimla,Himachal Pradesh,4,news,2024-08-03
+554,Tree debris blocking farm road near Akola. Vehicles stalled,blockage,medium,delayed_transport,Akola,Shimla,Himachal Pradesh,3,news,2024-08-04
+555,Heavy rain washed out rurla orad near cracks Nawada; carts stuck since dawn,flooding,high,delayed_transport,Nawada,Nadia,West Bengal,4,news,2024-08-02
+556,"Water holse logging on cracks farm service road sink to Latur, tarctors cannot reach sink fields",flooding,medium,delayed_transport,Latur,Hisar,Haryana,3,news,2024-08-25
+557,"Water logging on holes farm holes service raod holes to Latur, tractors cannot reach fields",flooding,medium,delayed_transport,Latur,Raichur,Karnataka,3,twitter,2024-08-09
+558,Heavy holes rain wahsed out rural road near crakcs Purulia; carts stuck since dawn,flooding,high,delayed_transport,Purulia,Hisar,Haryana,4,civic_app,2024-08-21
+559,Heavy rian washed holes out rrual road near Sunderpur; carts stcuk since dawn,flooding,high,delayed_transport,Sunderpur,Gonda,Uttar Pradesh,4,news,2024-08-01
+560,Brigde debris approaching Theni fallen crakced badly; trucks loaded with fallen produce are forced to fallen pause,bridge_damage,high,delayed_transport,Theni,Mandya,Karnataka,4,news,2024-08-16
+561,Bridge approaching Erode cracked badly; trucks water loaded with produce water are ofrced to pause,pothole,high,delayed_transport,Erode,Sitapur,Uttar Pradesh,4,news,2024-08-06
+562,Big potholes near water Meerut slowing mud grain xport,pothole,medium,delayed_transport,Meerut,Hisar,Haryana,3,news,2024-08-18
+563,Landslide debris covering dirt orad near Mango orchard rd,landslide,high,delayed_transport,Mango orchard rd,Sitapur,Uttar Pradesh,4,civic_app,2024-08-18
+564,Heavy rain washed holes out holes rural road near Meerut; carts stuck since dawn,flooding,high,delayed_transport,Meerut,Sitapur,Uttar Pradesh,4,twitter,2024-08-03
+565,Bridge approaching Purulia crkd badly; trucks debrsi loaded fallen fallen with produce are forced to pause,bridge_damage,high,delayed_transport,Purulia,Gonda,Uttar Pradesh,4,civic_app,2024-08-25
+566,Landslide debris covering dirt roda near Akola,landslide,high,delayed_transport,Akola,Gonda,Uttar Pradesh,4,twitter,2024-08-14
+567,Heavy rian washed out cracks rural road near Mango orchard rd; carts stuck since dawn,flooding,high,delayed_transport,Mango orchard rd,Sitapur,Uttar Pradesh,4,civic_app,2024-08-05
+568,Landslide has overflow cut off mountain trail to orchards near wet Mango wet orchard rd,landslide,critical,crop_loss_risk,Mango orchard rd,Hisar,Haryana,5,news,2024-08-04
+569,"Fallen tree blocking access slide to soil Latur, soil livestock movement paused",blockage,high,livestock_risk,Latur,Mandya,Karnataka,4,twitter,2024-08-21
+570,"sink Overflowing stream eroded the road edeg near Nagpur, dirt giving way",flooding,high,delayed_transport,Nagpur,Sehore,Madhya Pradesh,4,news,2024-08-16
+571,Debris from fallen branches and rocks blocking blocking Erode slide route after storm,blockage,medium,delayed_transport,Erode,Nadia,West Bengal,3,news,2024-08-20
+572,Landslide has cut off overflow mountain trail to orchards near Barmer,landslide,critical,crop_loss_risk,Barmer,Gonda,Uttar Pradesh,5,news,2024-08-06
+573,"Water logging on farm service slide road to Nagpur, soil tractors cannot lside reach fields",blockage,medium,delayed_transport,Nagpur,Rampur,Uttar Pradesh,3,news,2024-08-10
+574,rTee sink dberis blocking farm road near cracks aKtihar. Vehicles isnk stalled,flooding,medium,delayed_transport,Katihar,Nadia,West Bengal,3,twitter,2024-08-08
+575,Heavy rain washed out rural sink road near Cototn service lane; carts stuck since dawn,flooding,high,delayed_transport,Cotton service lane,Gonda,Uttar Pradesh,4,news,2024-08-17
+576,"Mudslide from heavy downpour buried overflow the path to Sunderpur, everything is overflwo soaked...",landslide,medium,crop_loss_risk,Sunderpur,Gonda,Uttar Pradesh,3,civic_app,2024-08-12
+577,"Cracked fallen surface on bridge to fallen Kumargram with water seeping through, fallen looks unstable",bridge_damage,high,delayed_transport,Kumargram,Gonda,Uttar Pradesh,4,civic_app,2024-08-04
+578,Debris soil from fallen branches and rocks lbocking Nawada route after storm,blockage,medium,delayed_transport,Nawada,Nadia,West Bengal,3,twitter,2024-08-04
+579,"Water logging on farm service road to Mango orchard rd, tractors cannot cracks reach fields",flooding,medium,delayed_transport,Mango orchard rd,Sitapur,Uttar Pradesh,3,news,2024-08-16
+580,"Water logging on holes frm service road to sink Cotton service lane, tractors cannot reach fields",flooding,medium,delayed_transport,Cotton service lane,Sitapur,Uttar Pradesh,3,civic_app,2024-08-02
+581,Tree debris blocking farm road slide near Latur. Vehicles stalled stalled,blockage,medium,delayed_transport,Latur,Gonda,Uttar Pradesh,3,news,2024-08-21
+582,"Overflowing tsream eroded the road edge near Nawada, drit giving sink way!!",flooding,high,delayed_transport,Nawada,Raichur,Karnataka,4,civic_app,2024-08-20
+583,"Cracked fallen surface on bridge to Erode with water seeping through, fallen looks unstable",bridge_damage,high,delayed_transport,Erode,Gonda,Uttar Pradesh,4,twitter,2024-08-06
+584,"oRad near Erode has hueg holes filled wtaer with mud water after rani, vehicles slipping badly",pothole,high,delayed_transport,Erode,Gonda,Uttar Pradesh,4,twitter,2024-08-03
+585,Small debris bridge near Barmer showing cracks; urgent safety risk!!,bridge_damage,high,delayed_transport,Barmer,Hisar,Haryana,4,twitter,2024-08-19
+586,The mud road near Akola is flul of deep potholes. slippery Tractors are breaking down daily,pothole,high,delayed_transport,Akola,Mandya,Karnataka,4,civic_app,2024-08-19
+587,"Water lgoging on sink farm service road to Sundrepur, tractors cannot reach fields",flooding,medium,delayed_transport,Sunderpur,Gonda,Uttar Pradesh,3,twitter,2024-08-07
+588,debris Bridge approaching Sunderpur cracked badly; trucks debris loaded with produce are forcde fallen to pause,bridge_damage,high,delayed_transport,Sunderpur,Rampur,Uttar Pradesh,4,news,2024-08-25
+589,wet Landslide has cut off mountain trail to overflow orchards near Latur,landslide,critical,crop_loss_risk,Latur,Rampur,Uttar Pradesh,5,news,2024-08-03
+590,"Mudslide from haevy downpour buried the path to Pruulia, everything overfolw is soaked...",landslide,medium,crop_loss_risk,Purulia,Sitapur,Uttar Pradesh,3,twitter,2024-08-24
+591,"debris Cracked surface fallen on bridge to Erode with water fallen seeping through, looks debris unstable",bridge_damage,high,delayed_transport,Erode,Sitapur,Uttar Pradesh,4,civic_app,2024-08-14
+592,"Water logging on farm service road sikn to Latur, tractors cannot reach fields",flooding,medium,delayed_transport,Latur,Shimla,Himachal Pradesh,3,news,2024-08-24
+593,"Water logging on frm service road to Latur, tractors cannot reach fields",flooding,medium,delayed_transport,Latur,Mandya,Karnataka,3,news,2024-08-06
+594,Debris from fallen branches and rocks blocking Akola wet route after voerflow storm sotrm,landslide,medium,delayed_transport,Akola,Gonda,Uttar Pradesh,3,news,2024-08-13
+595,slide has wet cut off mountain trail to orchards wet near Nawada,landslide,critical,crop_loss_risk,Nawada,Sitapur,Uttar Pradesh,5,news,2024-08-10
+596,Bridge approaching debris Purulia cracked badly; trucks loaded with rpoduce are forced to pause,bridge_damage,high,delayed_transport,Purulia,Sitapur,Uttar Pradesh,4,twitter,2024-08-10
+597,"Fallen slide tree blocking access to Purulia, livestock movemnet paused",blockage,high,livestock_risk,Purulia,Gonda,Uttar Pradesh,4,civic_app,2024-08-09
+598,holes Heavy rain washed out rural road near sink Katihar; carts stuck since cracks dawn,flooding,high,delayed_transport,Katihar,Hisar,Haryana,4,civic_app,2024-08-12
+599,"Overflowing holes stream eroded the road edge near Nawada, drit giving way",flooding,high,delayed_transport,Nawada,Nadia,West Bengal,4,twitter,2024-08-12
+600,Big potholes near Cotton service lane slowing grain transport,flooding,medium,delayed_transport,Cotton service lane,Mandya,Karnataka,3,civic_app,2024-08-01
+601,"Cracked surface on brdige to Theni with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Theni,Gonda,Uttar Pradesh,4,civic_app,2024-08-14
+602,"Cracked surface fallen on bridge to Akola with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Akola,Sitapur,Uttar Pradesh,4,news,2024-08-24
+603,"Overflowing stream eroded the road sink edge near Mango orhcard rd, dirt giivng way",flooding,high,delayed_transport,Mango orchard rd,Hisar,Haryana,4,news,2024-08-08
+604,"Fallen tree blocking access to Mango orchard soil rd, livestock movement paused",blockage,high,livestock_risk,Mango orchard rd,Sehore,Madhya Pradesh,4,twitter,2024-08-21
+605,"Fallen overflow rtee blocking access to Latur, livestock overflow movement paused",landslide,high,livestock_risk,Latur,Shimla,Himachal Pradesh,4,twitter,2024-08-22
+606,Debris from afllen branches and rocks blocking osil Sunderpur route after slide storm,blockage,medium,delayed_transport,Sunderpur,Gonda,Uttar Pradesh,3,news,2024-08-21
+607,"Road nera Erode water has slippery huge holes filled with waetr after rain, vehicles water slipping badly",pothole,high,delayed_transport,Erode,Nadia,West Bengal,4,news,2024-08-17
+608,"Cracked surface on debris bridge to Latur with water seeping fallen through, looks untsable",bridge_damage,high,delayed_transport,Latur,Sehore,Madhya Pradesh,4,news,2024-08-22
+609,"Overflowing stream eroded the road edge holes near Erode, holes dirt giving way",flooding,high,delayed_transport,Erode,Rampur,Uttar Pradesh,4,civic_app,2024-08-17
+610,Small bridge near Akola showing cracks; afllen urgent saftey risk,bridge_damage,high,delayed_transport,Akola,Gonda,Uttar Pradesh,4,civic_app,2024-08-03
+611,"Cracked surface on bridge debris to Nagpur with water seeping through, looks faleln unstable",bridge_damage,high,delayed_transport,Nagpur,Raichur,Karnataka,4,twitter,2024-08-20
+612,Landslide has cut off mountain trail to orchards near overflow Theni,landslide,critical,crop_loss_risk,Theni,Mandya,Karnataka,5,twitter,2024-08-10
+613,soil Tree debris blocking farm road near Cotton soil service lane. Vheicles stalled,blockage,medium,delayed_transport,Cotton service lane,Nadia,West Bengal,3,twitter,2024-08-10
+614,"Mudslide from heavy downpour buried the wet path to Erode, everything overflow is soaked",landslide,medium,crop_loss_risk,Erode,Nadia,West Bengal,3,news,2024-08-02
+615,Landslide wet debris covreing overflow drit orad near Harvest lane,landslide,high,delayed_transport,Harvest lane,Sitapur,Uttar Pradesh,4,civic_app,2024-08-09
+616,The road naer Cotton water service lane is full of deep potholes. Tractors are breaking odwn daily,pothole,high,delayed_transport,Cotton service lane,Raichur,Karnataka,4,twitter,2024-08-17
+617,"Overflowing stream eroded the rd edge cracks near sink Theni, dirt giving way",flooding,high,delayed_transport,Theni,Hisar,Haryana,4,twitter,2024-08-06
+618,"Road near Latur has huge mud holes fileld with water after rain, vehicles slipping badly",pothole,high,delayed_transport,Latur,Sitapur,Uttar Pradesh,4,twitter,2024-08-14
+619,Bridge approahcing Purulia cracked fallen badly; fallen trucks fallen loaded with produce are froced to pause,bridge_damage,high,delayed_transport,Purulia,Shimla,Himachal Pradesh,4,civic_app,2024-08-08
+620,"mud Road near Sunderpur has huge holes filled with water slippery after rain, vehicles slippery slipping badly!!",pothole,high,delayed_transport,Sunderpur,Rampur,Uttar Pradesh,4,civic_app,2024-08-04
+621,"Mudslide from heavy downpour buried path to hTeni, everything wet is soaked!!",landslide,medium,crop_loss_risk,Theni,Mandya,Karnataka,3,twitter,2024-08-12
+622,"fallen Cracked surface on debirs bridge to Latur fallen with water seeping fallen throuhg, looks unstable",bridge_damage,high,delayed_transport,Latur,Shimla,Himachal Pradesh,4,civic_app,2024-08-21
+623,Landslide debris covering dirt road nera overflow Theni,landslide,high,delayed_transport,Theni,Mandya,Karnataka,4,civic_app,2024-08-16
+624,Debris soil from fallen branchse and rocks blocking Barmer route after storm,blockage,medium,delayed_transport,Barmer,Sitapur,Uttar Pradesh,3,civic_app,2024-08-06
+625,Landslide has cut off mountain trail overflow to orchards overflow near Eroed,landslide,critical,crop_loss_risk,Erode,Gonda,Uttar Pradesh,5,twitter,2024-08-11
+626,Debris from fallen branches and rocks blocking Nagpur soil route fater storm,blockage,medium,delayed_transport,Nagpur,Shimla,Himachal Pradesh,3,news,2024-08-01
+627,"slide Overflowing stream eroded the road edge slide near soil Cotton service lane, dirt slide giving way",blockage,high,delayed_transport,Cotton service lane,Gonda,Uttar Pradesh,4,news,2024-08-14
+628,"Mudsilde from heavy downpuor buried the path to Latur, everything is soaked",landslide,medium,crop_loss_risk,Latur,Nadia,West Bengal,3,twitter,2024-08-05
+629,Brigde approaching debris Akola crkd badly; trucks loaded with produce are forced forced to pause,bridge_damage,high,delayed_transport,Akola,Raichur,Karnataka,4,civic_app,2024-08-16
+630,Heavy rain holes washed out rural road nera Harvest lane; sink carts sink stuck sink since dawn,flooding,high,delayed_transport,Harvest lane,Sehore,Madhya Pradesh,4,news,2024-08-05
+631,Tree cracks debris blocking cracks farm road near Nawada. Vehicles stalled...,flooding,medium,delayed_transport,Nawada,Sitapur,Uttar Pradesh,3,news,2024-08-11
+632,"Fallen tree soil blocking access to Cotton srevice lane, livestock movement paused",blockage,high,livestock_risk,Cotton service lane,Mandya,Karnataka,4,news,2024-08-07
+633,The road near Mango orchard rd is slippery full of deep potholes. Tractors are mud beraking down mud daily,pothole,high,delayed_transport,Mango orchard rd,Nadia,West Bengal,4,twitter,2024-08-19
+634,"Water logging on farm service holes road sink to Barmer, tractors cannot reach cracks fields",flooding,medium,delayed_transport,Barmer,Raichur,Karnataka,3,twitter,2024-08-22
+635,Landslide has cut off mountain trail to wet orchards near Latur,landslide,critical,crop_loss_risk,Latur,Sehore,Madhya Pradesh,5,news,2024-08-14
+636,Debris from fallen branches and rocks blocking Barmer route after storm!!,blockage,medium,delayed_transport,Barmer,Nadia,West Bengal,3,news,2024-08-05
+637,Tree debris blocking farm road nera Erode. Erode. Vehicles stalled,blockage,medium,delayed_transport,Erode,Gonda,Uttar Pradesh,3,news,2024-08-14
+638,Small bridge near Kumargram showing fallen cracks; urgent safety debris risk!!,bridge_damage,high,delayed_transport,Kumargram,Shimla,Himachal Pradesh,4,twitter,2024-08-01
+639,"Road near Baremr has huge holes filled with sink wtaer sink after rain, vehicles slipping badly",flooding,high,delayed_transport,Barmer,Mandya,Karnataka,4,civic_app,2024-08-22
+640,"Overfloiwng stream sink eroded the road edge near Harvest lane, dirt giving way",flooding,high,delayed_transport,Harvest lane,Mandya,Karnataka,4,civic_app,2024-08-03
+641,"Fallen tree slide blocking access to soil Barmer, livestock movement paused",blockage,high,livestock_risk,Barmer,Raichur,Karnataka,4,twitter,2024-08-24
+642,The road water near Meerut is full of deep potholes. Tractors are breaking down daily,pothole,high,delayed_transport,Meerut,Gonda,Uttar Pradesh,4,civic_app,2024-08-22
+643,Bridge approaching Katihar cracked debris badly; trucks loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Katihar,Gonda,Uttar Pradesh,4,civic_app,2024-08-19
+644,"Water logging on farm service road to Theni, tracotrs cannot sink reach sink fields",flooding,medium,delayed_transport,Theni,Nadia,West Bengal,3,civic_app,2024-08-05
+645,"Fallen tree blocking soil access to Nawada, livestock mvoement slide paused",blockage,high,livestock_risk,Nawada,Nadia,West Bengal,4,twitter,2024-08-05
+646,"Cracked surface on bridge dberis to Harvest lane with water seeping through, fallen looks unstable",bridge_damage,high,delayed_transport,Harvest lane,Rampur,Uttar Pradesh,4,twitter,2024-08-16
+647,"Cracked sruface on bridge to Erode iwth water seeping throuhg, looks unstable",bridge_damage,high,delayed_transport,Erode,Mandya,Karnataka,4,news,2024-08-22
+648,overflow Landslide has cut off mountain wet trail to orchards near Mango orchard rd,landslide,critical,crop_loss_risk,Mango orchard rd,Sehore,Madhya Pradesh,5,twitter,2024-08-23
+649,"slide Fallen tree soil blocking access to Cotton service lane, livestock movement soil paused",blockage,high,livestock_risk,Cotton service lane,Shimla,Himachal Pradesh,4,civic_app,2024-08-03
+650,"Water logigng cracks on snik farm service raod to Nagpur, tractors holes cannot reach holes fileds",flooding,medium,delayed_transport,Nagpur,Rampur,Uttar Pradesh,3,twitter,2024-08-06
+651,"water Road slippery near Erode has huge water holes filled with water water after rain, vehicles slipping badly",pothole,high,delayed_transport,Erode,Hisar,Haryana,4,news,2024-08-08
+652,Big potholes near Cotton service lane slowing grani transport,pothole,medium,delayed_transport,Cotton service lane,Gonda,Uttar Pradesh,3,twitter,2024-08-21
+653,"slide Fallen tree blocking access to Sunderpur, livestock movement paused",blockage,high,livestock_risk,Sunderpur,Mandya,Karnataka,4,civic_app,2024-08-08
+654,Bridge approaching Nagpur cracked badly; trucks fallen loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Nagpur,Raichur,Karnataka,4,civic_app,2024-08-03
+655,Big pothl slippery enar Latur slowing water grain water trnasport,pothole,medium,delayed_transport,Latur,Shimla,Himachal Pradesh,3,twitter,2024-08-04
+656,Bridge approaching Latur cracked badly; trucks loaded wtih produce are forced to pause,bridge_damage,high,delayed_transport,Latur,Nadia,West Bengal,4,news,2024-08-23
+657,Landslide has cut off mountani taril to slide orchards slide near Meerut,blockage,critical,crop_loss_risk,Meerut,Gonda,Uttar Pradesh,5,news,2024-08-18
+658,"water Cracked surface on bridge to mud Latur with mud mud water mud seeping thorugh, looks unstable",pothole,high,delayed_transport,Latur,Nadia,West Bengal,4,civic_app,2024-08-11
+659,Landsilde has cut off mountain trail to orchards near Theni,landslide,critical,crop_loss_risk,Theni,Nadia,West Bengal,5,twitter,2024-08-05
+660,overflow Landslide has wet cut off mountain wet trail to overflow orchards near Mango orchard rd,landslide,critical,crop_loss_risk,Mango orchard rd,Gonda,Uttar Pradesh,5,news,2024-08-07
+661,"Water loggign on farm service road to Sunderpur, tractors cannot reach cracks fields!!",flooding,medium,delayed_transport,Sunderpur,Mandya,Karnataka,3,twitter,2024-08-19
+662,"Road near Akloa has huge holes water filled with water after rain, slippery vehicles slipping badyl",pothole,high,delayed_transport,Akola,Shimla,Himachal Pradesh,4,civic_app,2024-08-09
+663,"Cracked fallen surface on bridge fallne to Cotton service debris lane with water seeping throug,h looks unstable",bridge_damage,high,delayed_transport,Cotton service lane,Sitapur,Uttar Pradesh,4,news,2024-08-05
+664,Bridge fallen approaching Cotton service lane cracked badly; trucks loaded with produce debris are forced afllen to fallen pause,bridge_damage,high,delayed_transport,Cotton service lane,Sehore,Madhya Pradesh,4,news,2024-08-16
+665,"Overflowing stream eroded the sink road edge near Thnei, dirt giving way",flooding,high,delayed_transport,Theni,Hisar,Haryana,4,civic_app,2024-08-21
+666,The roda near waetr Akola is full of deep potholes. Tractors are mud breaking down daily,pothole,high,delayed_transport,Akola,Nadia,West Bengal,4,twitter,2024-08-18
+667,wet Landslide has cut overflow off mountain trail overflow to orchards near Katihar,landslide,critical,crop_loss_risk,Katihar,Rampur,Uttar Pradesh,5,twitter,2024-08-20
+668,"Cracked surface on brdg to Kumargram with water seeping fallen through, looks unstable",bridge_damage,high,delayed_transport,Kumargram,Nadia,West Bengal,4,civic_app,2024-08-07
+669,Small bridge nera Harvest debris lane showing cracks; urgent asfety risk,bridge_damage,high,delayed_transport,Harvest lane,Hisar,Haryana,4,news,2024-08-14
+670,Heavy rain washed out sink rural road near Nawada; carts stcuk since dawn,flooding,high,delayed_transport,Nawada,Rampur,Uttar Pradesh,4,twitter,2024-08-24
+671,Haevy rain washed cracks out urral road near Meerut; carts cracks stuck since dawn,flooding,high,delayed_transport,Meerut,Nadia,West Bengal,4,news,2024-08-21
+672,Big potholes mud enar Purulia water slowign grain transport,pothole,medium,delayed_transport,Purulia,Shimla,Himachal Pradesh,3,civic_app,2024-08-19
+673,"Overflowing cracks stream eroded the road edge near Akola, holes dirt giving way",flooding,high,delayed_transport,Akola,Rampur,Uttar Pradesh,4,civic_app,2024-08-14
+674,Big potholes near Nagpur slowing grain transport,pothole,medium,delayed_transport,Nagpur,Rampur,Uttar Pradesh,3,news,2024-08-17
+675,Small bridge near Theni showing fallen cracks; urgent debris safety risk,bridge_damage,high,delayed_transport,Theni,Nadia,West Bengal,4,civic_app,2024-08-11
+676,"Mudslide from heavy overflow donwpour buried the path to Sunderpur, everything is soaked",landslide,medium,crop_loss_risk,Sunderpur,Gonda,Uttar Pradesh,3,civic_app,2024-08-20
+677,"Fallen tere blocking access to Erode, livestock movement paused",blockage,high,livestock_risk,Erode,Sitapur,Uttar Pradesh,4,civic_app,2024-08-14
+678,Tree debris cracks blocking farm road nera Sunderpur. Vehicles stalled,flooding,medium,delayed_transport,Sunderpur,Sitapur,Uttar Pradesh,3,civic_app,2024-08-03
+679,"Mudslide from ehavy donwpour buried the slide path to Purulia, everything soil is slide soaked",blockage,medium,crop_loss_risk,Purulia,Mandya,Karnataka,3,civic_app,2024-08-02
+680,aLndslide slide has cut off soil mountain trail to orchards soil near Nagpur...,blockage,critical,crop_loss_risk,Nagpur,Sitapur,Uttar Pradesh,5,civic_app,2024-08-04
+681,Big potholes near Mango slippery orchard rd slowing grain transoprt,pothole,medium,delayed_transport,Mango orchard rd,Sehore,Madhya Pradesh,3,civic_app,2024-08-07
+682,"Water logging on farm holes sevrice road to Purulia, tractors cannot reach fields!!",flooding,medium,delayed_transport,Purulia,Nadia,West Bengal,3,civic_app,2024-08-11
+683,Tree debris blocking famr road slide near Erode. Vehicles stalled,blockage,medium,delayed_transport,Erode,Gonda,Uttar Pradesh,3,civic_app,2024-08-15
+684,"rCacked surface on brdg to Harvest lane fallen with debris watre seeping through, looks unstable",bridge_damage,high,delayed_transport,Harvest lane,Raichur,Karnataka,4,civic_app,2024-08-14
+685,"Overflowing stream eroded the road edge sink near Latur, dirt dirt giving way",flooding,high,delayed_transport,Latur,Gonda,Uttar Pradesh,4,news,2024-08-08
+686,Landslide edbris covreing dirt road near kAola,landslide,high,delayed_transport,Akola,Hisar,Haryana,4,civic_app,2024-08-23
+687,Tree debris blocking frm road near Katihar. Vehicles stalled,blockage,medium,delayed_transport,Katihar,Nadia,West Bengal,3,civic_app,2024-08-08
+688,"afllen Cracked surface on brigde to Erode fallen with awter seeping through, looks unstable",bridge_damage,high,delayed_transport,Erode,Hisar,Haryana,4,news,2024-08-21
+689,rTee Tree debris blocking farm road near Akola. Vehicles stalled,blockage,medium,delayed_transport,Akola,Hisar,Haryana,3,twitter,2024-08-17
+690,"Road near Purulia has huge holes filled with water after rain, vehicles mud slipping baldy",pothole,high,delayed_transport,Purulia,Shimla,Himachal Pradesh,4,twitter,2024-08-02
+691,"Water logging sink on frm service road to Katihar, sink tractors cannot holes reach holes fields",flooding,medium,delayed_transport,Katihar,Sehore,Madhya Pradesh,3,civic_app,2024-08-22
+692,"Water logging on farm service road to Sunderpur, tractors cannot reach fields",flooding,medium,delayed_transport,Sunderpur,Sitapur,Uttar Pradesh,3,civic_app,2024-08-04
+693,Bridge approaching Kumargram cracked badly; trucks loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Kumargram,Shimla,Himachal Pradesh,4,civic_app,2024-08-15
+694,Heavy rain sink washed out isnk rural rd near Katiahr; carts stuck since dawn!!,flooding,high,delayed_transport,Katihar,Sitapur,Uttar Pradesh,4,civic_app,2024-08-21
+695,Landslide dberis covering dirt overflow road near Kumargram,landslide,high,delayed_transport,Kumargram,Rampur,Uttar Pradesh,4,twitter,2024-08-16
+696,"Cracked surface on bridge to Akola with with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Akola,Nadia,West Bengal,4,civic_app,2024-08-07
+697,"Road near Akola has huge holes filled with water after rain, rain, vehicles slipping badly",pothole,high,delayed_transport,Akola,Nadia,West Bengal,4,civic_app,2024-08-23
+698,"Water logging on soil frm service road to Harvest lane, soil tracotrs cannot raech fields",blockage,medium,delayed_transport,Harvest lane,Sehore,Madhya Pradesh,3,twitter,2024-08-22
+699,Bridge approaching Akola debris cracked bdaly; trucks fallen loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Akola,Hisar,Haryana,4,news,2024-08-16
+700,Tree debris blocking slide farm road near Thein. Vehicles stalled,blockage,medium,delayed_transport,Theni,Raichur,Karnataka,3,twitter,2024-08-08
+701,Small bridge near Nagpur showing cracks; urgent safety risk,pothole,high,delayed_transport,Nagpur,Mandya,Karnataka,4,civic_app,2024-08-14
+702,Tree debris blocking farm slide road slide near Sunderpur. Vehicles stalled!!,blockage,medium,delayed_transport,Sunderpur,Raichur,Karnataka,3,civic_app,2024-08-12
+703,Derbis slide form fallen branches and soil rocks blocking Mango orchard rd slide route after storm,blockage,medium,delayed_transport,Mango orchard rd,Sitapur,Uttar Pradesh,3,news,2024-08-04
+704,"Road near slippery Katihar has huge holes filled with mud water after rain, mud vehicles slippery slipping water badly",pothole,high,delayed_transport,Katihar,Sitapur,Uttar Pradesh,4,twitter,2024-08-12
+705,Debris soil from slide fallen branches and rocks blocking soil Purulia route after sotrm,blockage,medium,delayed_transport,Purulia,Hisar,Haryana,3,civic_app,2024-08-04
+706,The road mud near water Latur is slipepry full of water deep potholes. Tractors are breaknig down daily,pothole,high,delayed_transport,Latur,Raichur,Karnataka,4,twitter,2024-08-02
+707,The orad near Sunderpur is full of deep potholes. Tractors are breaking down daily,pothole,high,delayed_transport,Sunderpur,Shimla,Himachal Pradesh,4,news,2024-08-16
+708,Heavy sink rain washed out holes holes rrual road near sink Purulia; carts stuck since dawn,flooding,high,delayed_transport,Purulia,Gonda,Uttar Pradesh,4,news,2024-08-07
+709,"Mudslide wet from heavy wet downpour buried the path to Purulia, everything is soakde",landslide,medium,crop_loss_risk,Purulia,Hisar,Haryana,3,civic_app,2024-08-08
+710,mud Big potholes near Akloa slowign grain xport,pothole,medium,delayed_transport,Akola,Raichur,Karnataka,3,twitter,2024-08-05
+711,"Fallen soil tree blocking access to Erode, silde livestock movement paused",blockage,high,livestock_risk,Erode,Nadia,West Bengal,4,news,2024-08-11
+712,Big potholes water near Kumargram slowing grain transport,pothole,medium,delayed_transport,Kumargram,Sehore,Madhya Pradesh,3,civic_app,2024-08-25
+713,Big potholes near Latur wtaer slowing rgain transport,pothole,medium,delayed_transport,Latur,Mandya,Karnataka,3,civic_app,2024-08-23
+714,Bridge approaching Latur cracked badly; trucks loaded with produce are debris forced to pause,bridge_damage,high,delayed_transport,Latur,Mandya,Karnataka,4,twitter,2024-08-11
+715,"crkd debris surface on bridge fallen to Mnago orcahrd rd with debris water seeping through, fallen looks unstable",bridge_damage,high,delayed_transport,Mango orchard rd,Shimla,Himachal Pradesh,4,twitter,2024-08-21
+716,Landslide has cut wet off mountain trail to orchards near Mango orchard overflow rd,landslide,critical,crop_loss_risk,Mango orchard rd,Hisar,Haryana,5,civic_app,2024-08-24
+717,Tree debris blocking farm road soil nera Cotton service lane. Vehicles stalled,blockage,medium,delayed_transport,Cotton service lane,Hisar,Haryana,3,twitter,2024-08-11
+718,Big mud potholes near Nagpur slowing water grain tarnsport...,pothole,medium,delayed_transport,Nagpur,Hisar,Haryana,3,news,2024-08-11
+719,Landslide debris covering dirt road near Nagpur,landslide,high,delayed_transport,Nagpur,Rampur,Uttar Pradesh,4,civic_app,2024-08-25
+720,Tree debris blocking farm road soil near Meerut. Vehicles stalled,blockage,medium,delayed_transport,Meerut,Hisar,Haryana,3,civic_app,2024-08-02
+721,"Fallen tree blocking access to slide slide Nawada, livestock movement paused...",blockage,high,livestock_risk,Nawada,Shimla,Himachal Pradesh,4,civic_app,2024-08-14
+722,wet Landslide has wet cut overflow off wet mountain trail to orchards naer Kumargram,landslide,critical,crop_loss_risk,Kumargram,Raichur,Karnataka,5,news,2024-08-03
+723,Heavy rain washed out holes rural road near Sunderpur; carts stuck sink since dawn,flooding,high,delayed_transport,Sunderpur,Raichur,Karnataka,4,twitter,2024-08-21
+724,"Water logging on farm sink sink service road to Cotton service sink lan,e tractors cannot reach fields",flooding,medium,delayed_transport,Cotton service lane,Mandya,Karnataka,3,civic_app,2024-08-02
+725,"Road water near water Nawada has silppery huge holes filled slippery with water mud after rain, vehicles slipping badly",pothole,high,delayed_transport,Nawada,Raichur,Karnataka,4,twitter,2024-08-12
+726,Small bridge mud near Katihar showing cracks; urgent safety risk,pothole,high,delayed_transport,Katihar,Mandya,Karnataka,4,civic_app,2024-08-09
+727,"Road near mud Nagpur has huge holse filled with water water fater rain, vehiclse slipping badyl",pothole,high,delayed_transport,Nagpur,Raichur,Karnataka,4,civic_app,2024-08-05
+728,Tree edbris blocking fram roda near Aokla. Vehicles stalled,blockage,medium,delayed_transport,Akola,Nadia,West Bengal,3,news,2024-08-03
+729,Heavy rain washed cracks out rurla road near Meerut; carts stuck since dawn,flooding,high,delayed_transport,Meerut,Sehore,Madhya Pradesh,4,civic_app,2024-08-05
+730,"Water sink logging on frm service road to Nawada, tractors canont reach fields",flooding,medium,delayed_transport,Nawada,Shimla,Himachal Pradesh,3,twitter,2024-08-09
+731,Small bridge near debris Akola showing cracks; debris urgent safety risk,bridge_damage,high,delayed_transport,Akola,Sehore,Madhya Pradesh,4,news,2024-08-03
+732,"Fallen tree blocking access to Katihar, overlfow livestock movement paused",landslide,high,livestock_risk,Katihar,Raichur,Karnataka,4,civic_app,2024-08-13
+733,"Water Water hoels logging on frm service road to Kumargram, tractors cannot reach fields",flooding,medium,delayed_transport,Kumargram,Sehore,Madhya Pradesh,3,twitter,2024-08-19
+734,"Mudslide from heavy downpour bureid the path to wet Mango orchard rd, everything is overflow soaked",landslide,medium,crop_loss_risk,Mango orchard rd,Sitapur,Uttar Pradesh,3,twitter,2024-08-20
+735,Lnadslide debris covering dirt road near Ltaur,landslide,high,delayed_transport,Latur,Rampur,Uttar Pradesh,4,civic_app,2024-08-04
+736,Big slippery potholes mud near Theni slowing grain trasnport,pothole,medium,delayed_transport,Theni,Rampur,Uttar Pradesh,3,civic_app,2024-08-21
+737,"Water logging on farm sikn service road to Bramer, tractors cannot cracks reach fielsd...",flooding,medium,delayed_transport,Barmer,Rampur,Uttar Pradesh,3,twitter,2024-08-09
+738,The road near Nawada is full slippery of water deep potholes. Tractors are breaking down daiyl,pothole,high,delayed_transport,Nawada,Shimla,Himachal Pradesh,4,civic_app,2024-08-05
+739,"cracks Overflowing stream eroded the road road holes edge near Mango orchadr rd, dirt giving way",flooding,high,delayed_transport,Mango orchard rd,Rampur,Uttar Pradesh,4,news,2024-08-05
+740,"Fallen tree blocking slide access to slide Purulia, livestock movement paused",blockage,high,livestock_risk,Purulia,Shimla,Himachal Pradesh,4,twitter,2024-08-17
+741,"Overflwoing cracks stream eroded the sink road edge near Erode, dirt giving way",flooding,high,delayed_transport,Erode,Sehore,Madhya Pradesh,4,civic_app,2024-08-23
+742,"Water logging on farm service road sink to Meerut, trcators cannot reach fields",flooding,medium,delayed_transport,Meerut,Rampur,Uttar Pradesh,3,civic_app,2024-08-14
+743,soil Tree debris blocking farm road near Mango sldie orchard rd. Vehicles stalled,blockage,medium,delayed_transport,Mango orchard rd,Hisar,Haryana,3,news,2024-08-01
+744,"Cracked fallen surafce on bridge to Purulia with water seeping fallen through, looks unstable",bridge_damage,high,delayed_transport,Purulia,Raichur,Karnataka,4,twitter,2024-08-04
+745,Landslide debris covering dirt road near Akola,landslide,high,delayed_transport,Akola,Rampur,Uttar Pradesh,4,civic_app,2024-08-16
+746,debris Small bridge nera Kumargram showing cracks; urgnet safety riks,bridge_damage,high,delayed_transport,Kumargram,Shimla,Himachal Pradesh,4,twitter,2024-08-10
+747,Landslide debris covering dirt orad near Cotton service lane,landslide,high,delayed_transport,Cotton service lane,Rampur,Uttar Pradesh,4,news,2024-08-08
+748,"crkd surface on bridge to Nawada with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Nawada,Sehore,Madhya Pradesh,4,civic_app,2024-08-03
+749,Debris from fallen branches and rocks slide blocking Mango orchard rd route after storm,blockage,medium,delayed_transport,Mango orchard rd,Nadia,West Bengal,3,twitter,2024-08-21
+750,Big potholes enar Nawada water slowing grain transport,pothole,medium,delayed_transport,Nawada,Hisar,Haryana,3,news,2024-08-22
+751,wet Landslide debris covering dirt raod near aBrmer,landslide,high,delayed_transport,Barmer,Raichur,Karnataka,4,twitter,2024-08-13
+752,Small bridge near Meerut showing cracks; urgent safety fallen risk,bridge_damage,high,delayed_transport,Meerut,Nadia,West Bengal,4,civic_app,2024-08-17
+753,Landslide overflow debris covering overflow dirt road near overflow Nawada,landslide,high,delayed_transport,Nawada,Hisar,Haryana,4,civic_app,2024-08-19
+754,Big potholes near Barmer slowing grain transport,pothole,medium,delayed_transport,Barmer,Sitapur,Uttar Pradesh,3,news,2024-08-06
+755,"Road near Nawada has slippery huge holes filled with water water after rain, vehicles slipping badly",pothole,high,delayed_transport,Nawada,Raichur,Karnataka,4,news,2024-08-23
+756,Tree debris soil blocking farm road near Erode. Vehicles slide stalled,blockage,medium,delayed_transport,Erode,Shimla,Himachal Pradesh,3,news,2024-08-16
+757,Heavy rain washed out urral road near Nagpur; holes carts stuck since dawn,flooding,high,delayed_transport,Nagpur,Mandya,Karnataka,4,civic_app,2024-08-16
+758,"Mudslide overflow from wet haevy downpour buired wet the path to Harvest lane, everything is soaked",landslide,medium,crop_loss_risk,Harvest lane,Sitapur,Uttar Pradesh,3,civic_app,2024-08-15
+759,"Road near Sudnerpur has huge mud holse filled mud wiht water after rain, water vehicles slipping badly",pothole,high,delayed_transport,Sunderpur,Sitapur,Uttar Pradesh,4,news,2024-08-12
+760,Small bridge near Purulia showing cracks; debris urgent safety risk,bridge_damage,high,delayed_transport,Purulia,Shimla,Himachal Pradesh,4,civic_app,2024-08-15
+761,Heavy rain washed out rural road near slide Barmer; soil carts stcuk since dawn,blockage,high,delayed_transport,Barmer,Gonda,Uttar Pradesh,4,civic_app,2024-08-23
+762,Small bridge near Katihar showing cracks; urgent safety rsik,bridge_damage,high,delayed_transport,Katihar,Raichur,Karnataka,4,civic_app,2024-08-07
+763,Debris from fallen branches wet and rocks blocking Latur route after overflow storm,landslide,medium,delayed_transport,Latur,Sehore,Madhya Pradesh,3,civic_app,2024-08-01
+764,"crkd surface on brigde to Purulia with water seepign through, looks unstable",bridge_damage,high,delayed_transport,Purulia,Hisar,Haryana,4,news,2024-08-19
+765,mud Bridge approaching Mango slippery orchard rd cracked badly; slippery trucks loaded with produce are forced to pause,pothole,high,delayed_transport,Mango orchard rd,Gonda,Uttar Pradesh,4,twitter,2024-08-20
+766,Landslide has wet cut off mountain trail to orchards near Latur,landslide,critical,crop_loss_risk,Latur,Rampur,Uttar Pradesh,5,news,2024-08-05
+767,"Water logging on farm service road to sink Kumargram, tractors cracks cannot reach holes fields",flooding,medium,delayed_transport,Kumargram,Hisar,Haryana,3,news,2024-08-06
+768,"Cracekd surface on rbidge to Nagpur with water seeipng through, looks unstable",bridge_damage,high,delayed_transport,Nagpur,Shimla,Himachal Pradesh,4,civic_app,2024-08-05
+769,"Road fallen near Harvest lane has huge holes filled with water after rain, vehicles fallen slipping badly",bridge_damage,high,delayed_transport,Harvest lane,Sitapur,Uttar Pradesh,4,news,2024-08-17
+770,"soil Mudslide from heavy downpour buried the soil path to Latur, soil everything is soaked",blockage,medium,crop_loss_risk,Latur,Gonda,Uttar Pradesh,3,twitter,2024-08-20
+771,"Road mud near Barmer has huge holes filled with water after rain, vehicles slipping badly",pothole,high,delayed_transport,Barmer,Sitapur,Uttar Pradesh,4,news,2024-08-07
+772,"Road near Mango orchard rd has mud huge holes iflled with water after water rain, vehicles slipping badly",pothole,high,delayed_transport,Mango orchard rd,Shimla,Himachal Pradesh,4,news,2024-08-09
+773,Landslide debris covering wet dirt road near overflow Erode,landslide,high,delayed_transport,Erode,Hisar,Haryana,4,twitter,2024-08-01
+774,"Road near Latur has huge holes filled with water after rain, vehicles slipping badly!!",pothole,high,delayed_transport,Latur,Sehore,Madhya Pradesh,4,twitter,2024-08-05
+775,Landslide debris covering dirt road naer Meerut,landslide,high,delayed_transport,Meerut,Hisar,Haryana,4,news,2024-08-20
+776,Bridge approaching Akola cracked badly; trucks loaded with produce fallen are forced to pause,bridge_damage,high,delayed_transport,Akola,Hisar,Haryana,4,twitter,2024-08-06
+777,Tree edbris blocking farm road near Nawada. Vehicles stalled,blockage,medium,delayed_transport,Nawada,Nadia,West Bengal,3,twitter,2024-08-19
+778,Landslied has cut off mountain trail overflow to orchadrs near wet Katihar,landslide,critical,crop_loss_risk,Katihar,Hisar,Haryana,5,twitter,2024-08-20
+779,"Mudslide from heavy downpour wet buried the path to Harvest wet lnae, everythign wet is wet soaked",landslide,medium,crop_loss_risk,Harvest lane,Gonda,Uttar Pradesh,3,twitter,2024-08-10
+780,Tree debris blocking farm road soil near Katihar. Vehicles stalled,blockage,medium,delayed_transport,Katihar,Raichur,Karnataka,3,civic_app,2024-08-17
+781,Heavy rain wsahed out rural roda holes near Nawada; carts stuck since dawn,flooding,high,delayed_transport,Nawada,Sehore,Madhya Pradesh,4,news,2024-08-17
+782,Tree debris blocking farm road near Akola. Vehicles slide stalled,blockage,medium,delayed_transport,Akola,Hisar,Haryana,3,news,2024-08-25
+783,mSall slippery bridge near Mango orchard rd showing cracks; urgent safety risk,pothole,high,delayed_transport,Mango orchard rd,Sitapur,Uttar Pradesh,4,civic_app,2024-08-16
+784,holes Haevy rain washed cracks out sink rural holes road naer Meerut; carts stuck isnce dawn,flooding,high,delayed_transport,Meerut,Rampur,Uttar Pradesh,4,civic_app,2024-08-08
+785,The orad near Barmer is full of deep potholes. Tractors are breaking dwon daily,pothole,high,delayed_transport,Barmer,Nadia,West Bengal,4,twitter,2024-08-17
+786,Debris from fallen barnches and rocks blocking Katihar route slide after sotrm,blockage,medium,delayed_transport,Katihar,Rampur,Uttar Pradesh,3,civic_app,2024-08-05
+787,slide wet has cut wet off overflow moutnain trail to orchards overflow near Theni,landslide,critical,crop_loss_risk,Theni,Sehore,Madhya Pradesh,5,civic_app,2024-08-05
+788,"Mudslide wet from heavy downpour buried the path to Kumargram, overflow evertyhing is overflow soaked",landslide,medium,crop_loss_risk,Kumargram,Mandya,Karnataka,3,twitter,2024-08-13
+789,Small brdige dberis near fallen Latur showing cracks; urgent debris sfaety risk,bridge_damage,high,delayed_transport,Latur,Nadia,West Bengal,4,civic_app,2024-08-20
+790,Landslide has wet cut overflow off mountain trail to orchards near Lautr...,landslide,critical,crop_loss_risk,Latur,Rampur,Uttar Pradesh,5,news,2024-08-17
+791,Big optholes near Barmer slowing grain water transport,pothole,medium,delayed_transport,Barmer,Nadia,West Bengal,3,news,2024-08-11
+792,Lnadslide debris covering dirt overflow road near Mango orchard rd,landslide,high,delayed_transport,Mango orchard rd,Nadia,West Bengal,4,civic_app,2024-08-24
+793,Big potholes slippery near water Akola slowing grain xport,pothole,medium,delayed_transport,Akola,Shimla,Himachal Pradesh,3,news,2024-08-08
+794,Heavy rain washed out rural road near Barmer; crats stuck since dawn,flooding,high,delayed_transport,Barmer,Raichur,Karnataka,4,news,2024-08-15
+795,"Overflowing soil stream eroded the siol road edge near Sunderpur, dirt giving way",blockage,high,delayed_transport,Sunderpur,Mandya,Karnataka,4,civic_app,2024-08-04
+796,"uMdslide from heavy overflow downpour buried path to voerflow Theni, everythign is overflow soaked",landslide,medium,crop_loss_risk,Theni,Mandya,Karnataka,3,news,2024-08-19
+797,Landslide debris covering wet dirt road near Sudnerpur,landslide,high,delayed_transport,Sunderpur,Sehore,Madhya Pradesh,4,civic_app,2024-08-18
+798,Bridge approaching Mango orchard mud rd slippery cracked badly; trucks loaded with produce are forced to pause,pothole,high,delayed_transport,Mango orchard rd,Rampur,Uttar Pradesh,4,twitter,2024-08-06
+799,Big potholes near Mango orchard rd slowing grain transport,pothole,medium,delayed_transport,Mango orchard rd,Raichur,Karnataka,3,twitter,2024-08-08
+800,The rd holes near Nawada is full of sink deep potholes. Tarctors are breaking odwn daily,flooding,high,delayed_transport,Nawada,Nadia,West Bengal,4,civic_app,2024-08-19
+801,Small bridge near Bramer showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Barmer,Raichur,Karnataka,4,civic_app,2024-08-15
+802,Debris from fallen branches and rocks blocking Nawada route soil after storm,blockage,medium,delayed_transport,Nawada,Sitapur,Uttar Pradesh,3,news,2024-08-25
+803,"Overflowing stream sikn eroded the holes road hoels edge enar Nagpur, dirt giving way",flooding,high,delayed_transport,Nagpur,Sehore,Madhya Pradesh,4,twitter,2024-08-23
+804,The water road near Sunderpur is full of deep potholes. slippery Tractors are breaking odwn daily,pothole,high,delayed_transport,Sunderpur,Raichur,Karnataka,4,news,2024-08-03
+805,The orad slippery near Nawada is full mud of deep mud potholes. Tractors are breaking down daily,pothole,high,delayed_transport,Nawada,Sitapur,Uttar Pradesh,4,news,2024-08-17
+806,Debris from fallen branches and rocks blocking Theni route after storm,blockage,medium,delayed_transport,Theni,Raichur,Karnataka,3,twitter,2024-08-08
+807,cracks Heavy holes rain washed out rural sink road near Barmer; carts stuck since dawn,flooding,high,delayed_transport,Barmer,Nadia,West Bengal,4,civic_app,2024-08-07
+808,"crkd surface on bridge to Barmer with water fallen seepnig fallen through, looks looks unsatble",bridge_damage,high,delayed_transport,Barmer,Sehore,Madhya Pradesh,4,civic_app,2024-08-04
+809,"Mudslide from heavy downpour buried the path to Purulia, everything is soaked",landslide,medium,crop_loss_risk,Purulia,Gonda,Uttar Pradesh,3,civic_app,2024-08-08
+810,The road near Akola is full of deep potholes. Tractors are breaking down daily...,pothole,high,delayed_transport,Akola,Hisar,Haryana,4,news,2024-08-08
+811,"Water logging on fram service sink road to Meeru,t tractors cannot reach fields",flooding,medium,delayed_transport,Meerut,Sehore,Madhya Pradesh,3,news,2024-08-04
+812,"sink Ovreflowing sink stream eroded the road edge near Mango orchard rd, dirt giving way",flooding,high,delayed_transport,Mango orchard rd,Raichur,Karnataka,4,twitter,2024-08-07
+813,Bridge approaching Erode cracked debris badly; trucks loaded with produce are forced debris to pause,bridge_damage,high,delayed_transport,Erode,Raichur,Karnataka,4,news,2024-08-11
+814,The road near Barmer is full mud of deep potholes. Tractors are mud breaking down daily,pothole,high,delayed_transport,Barmer,Mandya,Karnataka,4,news,2024-08-02
+815,The road near Theni is mud full of edep potholes. Tractors slippery are breaking down daily,pothole,high,delayed_transport,Theni,Rampur,Uttar Pradesh,4,twitter,2024-08-18
+816,"Road near Purulia has huge holes filled wtih water mud after rain, vehicles slipping badly",pothole,high,delayed_transport,Purulia,Raichur,Karnataka,4,twitter,2024-08-06
+817,"Mudslide overflow form heavy downpour buried the path to Katihar, Katihar, everything is wet soaked",landslide,medium,crop_loss_risk,Katihar,Sehore,Madhya Pradesh,3,twitter,2024-08-15
+818,The orad near Cottno slippery serivce lane is full of depe potholes. slippery Tractors water are breaking down slippery daily,pothole,high,delayed_transport,Cotton service lane,Nadia,West Bengal,4,news,2024-08-05
+819,"Fallen tree slide blocking access soil to Kathiar, livestock movement sldie puased",blockage,high,livestock_risk,Katihar,Shimla,Himachal Pradesh,4,civic_app,2024-08-12
+820,"Mudslide from heavy downpour buried overflow path to wet aBrmer, overflow everything is soaked",landslide,medium,crop_loss_risk,Barmer,Mandya,Karnataka,3,news,2024-08-09
+821,"Road near Barmer has hueg holes filled with water after rain, vehicles slipping badly",pothole,high,delayed_transport,Barmer,Shimla,Himachal Pradesh,4,civic_app,2024-08-19
+822,"fallen Cracked Cracked surface fallen on bridge to Cotton service lane fallen with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Cotton service lane,Gonda,Uttar Pradesh,4,civic_app,2024-08-02
+823,"Overflowing sink stream eroded the road edge near kAola, dirt giving holes way",flooding,high,delayed_transport,Akola,Sehore,Madhya Pradesh,4,news,2024-08-22
+824,"Overflowing stream eroded the road edge near Erode, sink dirt cracks giving way",flooding,high,delayed_transport,Erode,Hisar,Haryana,4,news,2024-08-14
+825,Heavy rain washed cracks out rural road nera Barmer; carts stuck since dawn,flooding,high,delayed_transport,Barmer,Rampur,Uttar Pradesh,4,twitter,2024-08-23
+826,"Water logging sink on fram service road to cracks Meerut, tractors canont reahc fields!!",flooding,medium,delayed_transport,Meerut,Mandya,Karnataka,3,news,2024-08-08
+827,sink Heavy rain awshed holes out rural roda near Nawada; carts stuck sinec dawn,flooding,high,delayed_transport,Nawada,Hisar,Haryana,4,news,2024-08-20
+828,Debris form fallen branches soil and rocks blocking Theni route soil after storm,blockage,medium,delayed_transport,Theni,Shimla,Himachal Pradesh,3,news,2024-08-05
+829,The road near Purulia is slippery full of deep potholes. Tractors are breaking dwon daily,pothole,high,delayed_transport,Purulia,Sitapur,Uttar Pradesh,4,twitter,2024-08-24
+830,The road naer Nawada is full of edep potholes. Tractors are breaking down daily,pothole,high,delayed_transport,Nawada,Rampur,Uttar Pradesh,4,twitter,2024-08-10
+831,"Mudslide from heayv downpour buried the path to Erode, everything is soil sokaed",blockage,medium,crop_loss_risk,Erode,Nadia,West Bengal,3,news,2024-08-24
+832,"Road near Nawada slippery has huge holes filled with water after mud rain, vehicles slipping badly",pothole,high,delayed_transport,Nawada,Gonda,Uttar Pradesh,4,news,2024-08-03
+833,Debris from fallen soil branches soil and rocks blocking Cotton service lane route after slide strom,blockage,medium,delayed_transport,Cotton service lane,Mandya,Karnataka,3,civic_app,2024-08-21
+834,Big potholes near Erode slowing grain transport,pothole,medium,delayed_transport,Erode,Sitapur,Uttar Pradesh,3,civic_app,2024-08-06
+835,"Cracked surface on bridge fallen to Cotton service lane debris with debris water seeping through, looks unstable",bridge_damage,high,delayed_transport,Cotton service lane,Sitapur,Uttar Pradesh,4,twitter,2024-08-19
+836,overflow Landslide has cut off mounatin trail to orchards near Latur,landslide,critical,crop_loss_risk,Latur,Rampur,Uttar Pradesh,5,twitter,2024-08-09
+837,"Cracked surface on bridge to Theni with fallen water seeping through, debris looks unstable",bridge_damage,high,delayed_transport,Theni,Shimla,Himachal Pradesh,4,news,2024-08-12
+838,debris Bridge approaching debirs Purulia cracked badly; trucks loaded with produce are forced to pause...,bridge_damage,high,delayed_transport,Purulia,Sitapur,Uttar Pradesh,4,twitter,2024-08-06
+839,The road near Cotton slippery serviec lane is slippery full of deep potholes. Tractors are breaking down daily,pothole,high,delayed_transport,Cotton service lane,Raichur,Karnataka,4,news,2024-08-01
+840,The road near Kumargram is full of deep potholes. mud Tractors slippery are breaking down daily,pothole,high,delayed_transport,Kumargram,Nadia,West Bengal,4,news,2024-08-11
+841,Landslide wet debris covering dirt wet road near Akola,landslide,high,delayed_transport,Akola,Hisar,Haryana,4,news,2024-08-16
+842,"Fallen tree blocking access soil to Theni, soil livestock movement paused",blockage,high,livestock_risk,Theni,Raichur,Karnataka,4,civic_app,2024-08-15
+843,Small brdg near fallen Nawada showing fallne cracks; urgent fallen safety risk,bridge_damage,high,delayed_transport,Nawada,Hisar,Haryana,4,news,2024-08-09
+844,Bridge approaching Akola cracked badly; rtucks loaded with produce are forced to pause,bridge_damage,high,delayed_transport,Akola,Mandya,Karnataka,4,civic_app,2024-08-16
+845,"Overflowing stream eroded the road edge near Nagpur, dirt igving way",flooding,high,delayed_transport,Nagpur,Rampur,Uttar Pradesh,4,news,2024-08-25
+846,"Cracked surface on bridge to Sunderpur fallen with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Sunderpur,Raichur,Karnataka,4,news,2024-08-11
+847,debris Bridge approaching Theni crkd badly; trucks loaedd wiht produce are forced to pause,bridge_damage,high,delayed_transport,Theni,Hisar,Haryana,4,twitter,2024-08-24
+848,"Mudslide from heavy downpour buried the path to Purulia, everything is soaked",landslide,medium,crop_loss_risk,Purulia,Hisar,Haryana,3,twitter,2024-08-14
+849,"Overflowing tsream cracks eroded the road egde near sink Kumargram, dirt giving way",flooding,high,delayed_transport,Kumargram,Mandya,Karnataka,4,news,2024-08-12
+850,"Cracked surface on bridge to Nagpur with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Nagpur,Rampur,Uttar Pradesh,4,civic_app,2024-08-01
+851,"Fallen tree blcoking access to slide Erode, livestock omvement paused",blockage,high,livestock_risk,Erode,Rampur,Uttar Pradesh,4,civic_app,2024-08-19
+852,Debris frmo fallen branches and rocks blocking Sunderpur route after storm,flooding,medium,delayed_transport,Sunderpur,Gonda,Uttar Pradesh,3,news,2024-08-02
+853,Derbis from fallen slide branches and rocks soil blocking Barmer route after storm storm,blockage,medium,delayed_transport,Barmer,Nadia,West Bengal,3,news,2024-08-08
+854,Tree debris blocking farm road near sldie Sunderpur. soil Vehicles stalled,blockage,medium,delayed_transport,Sunderpur,Hisar,Haryana,3,twitter,2024-08-05
+855,Small fallen bridge near Nawada showing cracks; urgent safety risk...,bridge_damage,high,delayed_transport,Nawada,Raichur,Karnataka,4,news,2024-08-05
+856,"slippery Raod near Purulia has huge holes slippery filled with water after rain, vehicels slipping mud badly",pothole,high,delayed_transport,Purulia,Nadia,West Bengal,4,civic_app,2024-08-05
+857,Heavy rain washed out rural road nera Kumargram; carts stuck since dawn,flooding,high,delayed_transport,Kumargram,Gonda,Uttar Pradesh,4,twitter,2024-08-23
+858,"Water logging on farm service road to Sunderpur, tractors cracks cannot reach fields",flooding,medium,delayed_transport,Sunderpur,Raichur,Karnataka,3,twitter,2024-08-24
+859,The road near Purulia is full of deep potholes. Tractors are breaking donw daily...,pothole,high,delayed_transport,Purulia,Sehore,Madhya Pradesh,4,news,2024-08-07
+860,Big potholes near Katihar slowing grain transport,pothole,medium,delayed_transport,Katihar,Mandya,Karnataka,3,twitter,2024-08-20
+861,The rd mud near Nagpur is ufll of deep potholes. Tractors are breaking down daily...,pothole,high,delayed_transport,Nagpur,Sehore,Madhya Pradesh,4,news,2024-08-08
+862,"Mudslide from heavy downpour buried the path to Nagpur, everything is soaked",landslide,medium,crop_loss_risk,Nagpur,Mandya,Karnataka,3,news,2024-08-09
+863,Tree debris blocking farm soil road near soil Harvest slide lane. Vehicles stalled,blockage,medium,delayed_transport,Harvest lane,Nadia,West Bengal,3,twitter,2024-08-07
+864,"Water logging on farm holes service road to Harvest lane, tractors cannto reach fileds",flooding,medium,delayed_transport,Harvest lane,Nadia,West Bengal,3,twitter,2024-08-07
+865,Tree debris blocking osil farm road near soil Kumargram. Vehicles stalled,blockage,medium,delayed_transport,Kumargram,Rampur,Uttar Pradesh,3,twitter,2024-08-20
+866,Landsldie has cut off mountain trail to orchards near Meerut,landslide,critical,crop_loss_risk,Meerut,Sitapur,Uttar Pradesh,5,civic_app,2024-08-23
+867,"Cracked slippery surface on bridge water to Harvest alne with mud water water seeping through, looks unstable",pothole,high,delayed_transport,Harvest lane,Shimla,Himachal Pradesh,4,news,2024-08-11
+868,fallen Small debris bridge near Katihar sohwing debris cracks; urgent safety risk,bridge_damage,high,delayed_transport,Katihar,Sitapur,Uttar Pradesh,4,civic_app,2024-08-04
+869,Debris from fallen brnaches and rocks soil blocking Sunderpur route after soil sotrm,blockage,medium,delayed_transport,Sunderpur,Mandya,Karnataka,3,news,2024-08-09
+870,slide Landslide debris covering soil dirt orad near Mango orchard rd,blockage,high,delayed_transport,Mango orchard rd,Shimla,Himachal Pradesh,4,news,2024-08-14
+871,Brigde approaching Kumargram cracked fallen badly; trucks fallen loaded with produce are fallen forced to pause,bridge_damage,high,delayed_transport,Kumargram,Raichur,Karnataka,4,civic_app,2024-08-14
+872,Small bridge near Katihar showing debris cracks; urgent saefty risk,bridge_damage,high,delayed_transport,Katihar,Hisar,Haryana,4,civic_app,2024-08-13
+873,"Overflowing stream eroded the rd edge near Latur, idrt giving holes way",flooding,high,delayed_transport,Latur,Gonda,Uttar Pradesh,4,twitter,2024-08-24
+874,Haevy cracks rain washed out rural road near Cotton service lane; carts stuck since dawn,flooding,high,delayed_transport,Cotton service lane,Nadia,West Bengal,4,news,2024-08-06
+875,Big potholes near Kumargram slowing grain transport,pothole,medium,delayed_transport,Kumargram,Gonda,Uttar Pradesh,3,civic_app,2024-08-05
+876,"holes Waetr logging holes on farm srevice road to Nagpur, tractors cannot reach fields",flooding,medium,delayed_transport,Nagpur,Nadia,West Bengal,3,news,2024-08-07
+877,Heavy rain wahsed out rural cracks road sink near holes Katihar; carts stuck since dawn,flooding,high,delayed_transport,Katihar,Raichur,Karnataka,4,news,2024-08-08
+878,Tree debris blocking farm road soil nera Harvest lane. Vehicles stalled,blockage,medium,delayed_transport,Harvest lane,Raichur,Karnataka,3,twitter,2024-08-04
+879,"Water logging on frm holes service road cracks to Meerut, tractors cannot reach fields...!!",flooding,medium,delayed_transport,Meerut,Rampur,Uttar Pradesh,3,news,2024-08-13
+880,mud Big potholes near Harvest lane slowing water grain xport,pothole,medium,delayed_transport,Harvest lane,Shimla,Himachal Pradesh,3,civic_app,2024-08-07
+881,Tree debris blocking farm road near slide Harvest lane. Vehicles slide stalled,blockage,medium,delayed_transport,Harvest lane,Hisar,Haryana,3,news,2024-08-04
+882,Bridge approaching Nagpur cracked badly; trucks loaded iwth produce are forced to fallen pause,bridge_damage,high,delayed_transport,Nagpur,Rampur,Uttar Pradesh,4,news,2024-08-06
+883,Small bridge near Nawada showing fallen cracks; fallen urgent saftey fallen risk!!,bridge_damage,high,delayed_transport,Nawada,Gonda,Uttar Pradesh,4,twitter,2024-08-03
+884,Tree slide debris blocking farm road near Meerut. soil Vehicles slide stalled,blockage,medium,delayed_transport,Meerut,Sitapur,Uttar Pradesh,3,twitter,2024-08-13
+885,Small bridge near Meerut showing debris cracks; urgent safety risk,bridge_damage,high,delayed_transport,Meerut,Mandya,Karnataka,4,civic_app,2024-08-15
+886,Landslide overflow debris covering dirt road near Purulia,landslide,high,delayed_transport,Purulia,Rampur,Uttar Pradesh,4,civic_app,2024-08-14
+887,"Cracked surface on bridge to Latur with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Latur,Hisar,Haryana,4,news,2024-08-17
+888,Small bridge near Kaithar fallen showing cracks; uregnt safety risk,bridge_damage,high,delayed_transport,Katihar,Mandya,Karnataka,4,twitter,2024-08-21
+889,Landslide debris covering dirt road near Nagpur,landslide,high,delayed_transport,Nagpur,Shimla,Himachal Pradesh,4,civic_app,2024-08-17
+890,water The road mud near water Akola is full of deep potholes. water Tractors slippery are breaking down daily,pothole,high,delayed_transport,Akola,Nadia,West Bengal,4,twitter,2024-08-02
+891,"overflow Mudslide wet from heavy downpour buried the path wet to Cotton service lane, everything is soaked",landslide,medium,crop_loss_risk,Cotton service lane,Nadia,West Bengal,3,civic_app,2024-08-16
+892,"Water logging on farm service road to Nawada, tractors cannot erach slide ifelds",blockage,medium,delayed_transport,Nawada,Gonda,Uttar Pradesh,3,civic_app,2024-08-12
+893,Heavy rain washed out rural road near Mango rochard rd; carts stuck since dawn,flooding,high,delayed_transport,Mango orchard rd,Hisar,Haryana,4,news,2024-08-08
+894,"Mudslide from heavy downpour buried the wet path to Latur, overflow everything is wet soakde",landslide,medium,crop_loss_risk,Latur,Mandya,Karnataka,3,twitter,2024-08-12
+895,siol Debris soli from faleln branches and soil rocks blocking Nawada ruote slide afetr storm,blockage,medium,delayed_transport,Nawada,Shimla,Himachal Pradesh,3,civic_app,2024-08-12
+896,Small bridge near Cotton service lane showing cracks; urgent debris safety risk,bridge_damage,high,delayed_transport,Cotton service lane,Gonda,Uttar Pradesh,4,civic_app,2024-08-22
+897,"Mudslide from heavy wet downpour buried the path to Latur, everything is soaked",landslide,medium,crop_loss_risk,Latur,Shimla,Himachal Pradesh,3,news,2024-08-20
+898,"Overflowing stream eroded the road edge near Kumargram, dirt giving way",flooding,high,delayed_transport,Kumargram,Shimla,Himachal Pradesh,4,twitter,2024-08-16
+899,Landslide debris covering dirt rd near Barmer,blockage,high,delayed_transport,Barmer,Hisar,Haryana,4,twitter,2024-08-05
+900,"cracks Water logging on farm service holes road crcaks to Kumargram, tractors cannot reach fields",flooding,medium,delayed_transport,Kumargram,Raichur,Karnataka,3,news,2024-08-06
+901,Heavy rain awshed out rural road near Nawada; sink carts stuck sink since dawn,flooding,high,delayed_transport,Nawada,Sehore,Madhya Pradesh,4,twitter,2024-08-03
+902,"Road debris enar fallen Katihar has huge holes fallen filled wiht water after rain, debris vehicles slipping badly",bridge_damage,high,delayed_transport,Katihar,Mandya,Karnataka,4,civic_app,2024-08-09
+903,"Overflowing stream eroded the road edge near Harvest holes lane, dirt giving way",flooding,high,delayed_transport,Harvest lane,Rampur,Uttar Pradesh,4,news,2024-08-17
+904,Small bridge enar Katihar showing cracks; urgetn safety risk,bridge_damage,high,delayed_transport,Katihar,Sitapur,Uttar Pradesh,4,news,2024-08-13
+905,Big potholes near Katihar sloiwng grain transport,flooding,medium,delayed_transport,Katihar,Sehore,Madhya Pradesh,3,news,2024-08-22
+906,"Mudslide from heavy downpour buried the wet path to Latur, evreything is soaked",landslide,medium,crop_loss_risk,Latur,Raichur,Karnataka,3,civic_app,2024-08-09
+907,slide debris wet covering wet dirt road naer Nagpru,landslide,high,delayed_transport,Nagpur,Raichur,Karnataka,4,news,2024-08-22
+908,"Road near Sunderpur has huge holes filled with water after rain, vehicles slipping badly!!",pothole,high,delayed_transport,Sunderpur,Shimla,Himachal Pradesh,4,twitter,2024-08-05
+909,slide dberis covering dirt rd near Latur,landslide,high,delayed_transport,Latur,Sehore,Madhya Pradesh,4,twitter,2024-08-02
+910,Landslide has cut overflow off muontain overflow trail to orchards wet near Hravest lane,landslide,critical,crop_loss_risk,Harvest lane,Hisar,Haryana,5,news,2024-08-11
+911,"Fallen tree blcoking access to Sunderpur, livestock movement pausde...",blockage,high,livestock_risk,Sunderpur,Mandya,Karnataka,4,twitter,2024-08-25
+912,holes Heavy rian washed out rural road near Erode; carts stuck since holes dawn,flooding,high,delayed_transport,Erode,Sitapur,Uttar Pradesh,4,news,2024-08-21
+913,"Overflowing cracks stream eroded the road sink edge near Katihar, ditr sink giving way",flooding,high,delayed_transport,Katihar,Shimla,Himachal Pradesh,4,news,2024-08-15
+914,fallen The rd debris near Katiahr is full of deep potholes. Tractros are braeking down daily,bridge_damage,high,delayed_transport,Katihar,Rampur,Uttar Pradesh,4,civic_app,2024-08-25
+915,"soil Fallen tree blocking access slide to Purulia, slide livestock movement paused",blockage,high,livestock_risk,Purulia,Raichur,Karnataka,4,news,2024-08-18
+916,"Overflowing stream eroded the roda edge near Katihar, ditr giivng way...",flooding,high,delayed_transport,Katihar,Shimla,Himachal Pradesh,4,civic_app,2024-08-15
+917,The road near slippery Sunderpur is flul of deep potholes. mud Tractors are breaking down daily...,pothole,high,delayed_transport,Sunderpur,Raichur,Karnataka,4,twitter,2024-08-07
+918,"Water logging on frm service rd to Nawada, holes tractors cannot reach fields",flooding,medium,delayed_transport,Nawada,Raichur,Karnataka,3,civic_app,2024-08-22
+919,"Water logging on farm service road cracks to Katihar, tractosr holes cannot reahc fields",flooding,medium,delayed_transport,Katihar,Sehore,Madhya Pradesh,3,news,2024-08-12
+920,Tree debris slide blocking frm rd near Purulai. soil Vehicles stalled...,blockage,medium,delayed_transport,Purulia,Shimla,Himachal Pradesh,3,civic_app,2024-08-09
+921,"Road nera Akola has huge holes filled with mud water after rain, vehicles slipping badly",pothole,high,delayed_transport,Akola,Gonda,Uttar Pradesh,4,civic_app,2024-08-09
+922,Tree edbris bolcking slide farm road near Purulia. Vehicles stalled,blockage,medium,delayed_transport,Purulia,Sitapur,Uttar Pradesh,3,twitter,2024-08-17
+923,"rCacked surface on bridge debris to aLtur with water seeping through, looks unstable",bridge_damage,high,delayed_transport,Latur,Sehore,Madhya Pradesh,4,news,2024-08-10
+924,Big potholes near Erode slowing grain transport,pothole,medium,delayed_transport,Erode,Hisar,Haryana,3,civic_app,2024-08-11
+925,soil Debris from fallne branhces and rocks slide blocking Mango orchard soil rd route soil after strom,blockage,medium,delayed_transport,Mango orchard rd,Nadia,West Bengal,3,twitter,2024-08-11
+926,"Overflowing stream eroded the road edge near Nawada, idrt giving way",flooding,high,delayed_transport,Nawada,Shimla,Himachal Pradesh,4,civic_app,2024-08-19
+927,Tree debris soil blocking farm road slide nera Meerut. soil Vehicles stalled,blockage,medium,delayed_transport,Meerut,Sitapur,Uttar Pradesh,3,civic_app,2024-08-11
+928,Landslide debris wet covering dirt overflow road near overflow Latur!!,landslide,high,delayed_transport,Latur,Mandya,Karnataka,4,twitter,2024-08-05
+929,"Overfloiwng stream carcks eroded the road edge near Akola, dirt giving way",flooding,high,delayed_transport,Akola,Nadia,West Bengal,4,news,2024-08-10
+930,water The road near Theni is water full of deep potholes. Tractors slippery are breaking down daily,pothole,high,delayed_transport,Theni,Gonda,Uttar Pradesh,4,news,2024-08-23
+931,Bridge approaching Purulia cracked badly; trucks loadde with produce are forecd to pause,bridge_damage,high,delayed_transport,Purulia,Sehore,Madhya Pradesh,4,news,2024-08-08
+932,Landslide has cut off wet mountain trail to orchrads near Akola,landslide,critical,crop_loss_risk,Akola,Gonda,Uttar Pradesh,5,civic_app,2024-08-25
+933,Debris from fallen branches and soil rocks blocking Nagpur route after slide storm,blockage,medium,delayed_transport,Nagpur,Sehore,Madhya Pradesh,3,news,2024-08-24
+934,The road water near Nagpur is full of deep potholes. Tractors slippery are breaking down daily,pothole,high,delayed_transport,Nagpur,Sitapur,Uttar Pradesh,4,news,2024-08-24
+935,"Water logging on sink afrm service road to crakcs Meerut, tractors cannot reach fields",flooding,medium,delayed_transport,Meerut,Mandya,Karnataka,3,news,2024-08-03
+936,"Mudslide wet from heavy heavy wet donwpour ubried the path to wet Nagpur, everything is soaked",landslide,medium,crop_loss_risk,Nagpur,Hisar,Haryana,3,civic_app,2024-08-10
+937,Bridge approaching debris Sunderpur cracekd badly; trucks loaded with produce are forced fallen to pause...,bridge_damage,high,delayed_transport,Sunderpur,Gonda,Uttar Pradesh,4,twitter,2024-08-02
+938,Landslide has cut off mountain trail to orchards near overflow Kumargram,landslide,critical,crop_loss_risk,Kumargram,Sitapur,Uttar Pradesh,5,civic_app,2024-08-21
+939,"holse Water logging on farm service raod to Purulia, holes tractors cannot reach fields",flooding,medium,delayed_transport,Purulia,Mandya,Karnataka,3,civic_app,2024-08-23
+940,Landslide debris covering dirt road near Katihar!!,landslide,high,delayed_transport,Katihar,Mandya,Karnataka,4,civic_app,2024-08-10
+941,Small bridge fallen near Cotton service lane showing cracks; urgent fallen asfety risk,bridge_damage,high,delayed_transport,Cotton service lane,Sitapur,Uttar Pradesh,4,twitter,2024-08-08
+942,slide Tree debris bolcking farm orad slide near Erode. Vehicles stalled,blockage,medium,delayed_transport,Erode,Shimla,Himachal Pradesh,3,twitter,2024-08-09
+943,slippery Big slippery pothl near mud Harvest alne slowing water grain transport,pothole,medium,delayed_transport,Harvest lane,Rampur,Uttar Pradesh,3,news,2024-08-22
+944,Small bridge near Nagpur hsowing cracks; urgent safety fallen irsk,bridge_damage,high,delayed_transport,Nagpur,Hisar,Haryana,4,twitter,2024-08-22
+945,Landslide has cut off mountain trail to orchards wet near wet Nagpur,landslide,critical,crop_loss_risk,Nagpur,Rampur,Uttar Pradesh,5,twitter,2024-08-13
+946,"Fallen tree blocking access to Erode, livestock movement paused",flooding,high,livestock_risk,Erode,Shimla,Himachal Pradesh,4,twitter,2024-08-16
+947,"Mudslide form heavy dowpnour buride the path to Katihar, everything is soaked",blockage,medium,crop_loss_risk,Katihar,Sehore,Madhya Pradesh,3,twitter,2024-08-16
+948,Small bridge near Meerut showing crakcs; urgetn debris safety risk,bridge_damage,high,delayed_transport,Meerut,Raichur,Karnataka,4,twitter,2024-08-15
+949,Landslide debris covering dirt road wet near Erode,landslide,high,delayed_transport,Erode,Mandya,Karnataka,4,twitter,2024-08-15
+950,"Fallen tree blocking access to Meerut, livestock movement paused",blockage,high,livestock_risk,Meerut,Shimla,Himachal Pradesh,4,civic_app,2024-08-05
+951,debris Small bridge near debirs Akola showing cracsk; urgent safety risk,bridge_damage,high,delayed_transport,Akola,Sitapur,Uttar Pradesh,4,twitter,2024-08-23
+952,Debris slide from fallen branches and rocks blocking Cotton service lane route after storm,blockage,medium,delayed_transport,Cotton service lane,Rampur,Uttar Pradesh,3,twitter,2024-08-02
+953,The debris road nera Erode is full of deep potholes. Tracotrs are breaking down daily,bridge_damage,high,delayed_transport,Erode,Mandya,Karnataka,4,civic_app,2024-08-16
+954,Tree Tree debris soil blocking frm road near Mango orchard rd. soil Vehicles stalled,blockage,medium,delayed_transport,Mango orchard rd,Nadia,West Bengal,3,twitter,2024-08-08
+955,Tree debris blocking farm road near Lautr. Vehiclse stalled,blockage,medium,delayed_transport,Latur,Shimla,Himachal Pradesh,3,twitter,2024-08-02
+956,Small bridge near Theni showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Theni,Sehore,Madhya Pradesh,4,civic_app,2024-08-04
+957,Landslide has cut off mountain trail to slide orchards near Cotton service lane,blockage,critical,crop_loss_risk,Cotton service lane,Rampur,Uttar Pradesh,5,civic_app,2024-08-12
+958,"soil Fallen silde tree blocking access to Kumargram, livestock movement paused",blockage,high,livestock_risk,Kumargram,Gonda,Uttar Pradesh,4,twitter,2024-08-15
+959,"Fallen tree blocking access slide to Sunderpur, livestock movement paused",blockage,high,livestock_risk,Sunderpur,Nadia,West Bengal,4,news,2024-08-16
+960,fallen Bridge approaching Latur cracked badly; dberis trucks fallen loaded with produce are debris forced to pause,bridge_damage,high,delayed_transport,Latur,Rampur,Uttar Pradesh,4,news,2024-08-01
+961,"wet Mudslide from wet heavy downpour buried the path to Barmer, wet everything is soaked",landslide,medium,crop_loss_risk,Barmer,Hisar,Haryana,3,civic_app,2024-08-14
+962,Big potholes near Latur slowing grain transport,pothole,medium,delayed_transport,Latur,Sehore,Madhya Pradesh,3,civic_app,2024-08-08
+963,Landslide debris covering dirt overflow road near Harvest lane,landslide,high,delayed_transport,Harvest lane,Sehore,Madhya Pradesh,4,civic_app,2024-08-13
+964,Big potholes near Sunderpur slowing grain transport,pothole,medium,delayed_transport,Sunderpur,Nadia,West Bengal,3,news,2024-08-16
+965,slippery Big potholes near Sunderpur slowing grain transport,pothole,medium,delayed_transport,Sunderpur,Sehore,Madhya Pradesh,3,news,2024-08-05
+966,Bridge approaching Sunderpur cracked badly; trucks loaded with produce are mud ofrced mud to pause,pothole,high,delayed_transport,Sunderpur,Mandya,Karnataka,4,civic_app,2024-08-11
+967,"holes Water logging on cracks farm service road to Theni, tractors cannot reach holes fields",flooding,medium,delayed_transport,Theni,Gonda,Uttar Pradesh,3,civic_app,2024-08-14
+968,"Road slippery near Nagpur water has huge holes filled with water after rain, vehicles slipping badly",pothole,high,delayed_transport,Nagpur,Sitapur,Uttar Pradesh,4,news,2024-08-03
+969,Landslide edbris covering dirt overflow road near Cotton service overflow lane...,landslide,high,delayed_transport,Cotton service lane,Hisar,Haryana,4,news,2024-08-14
+970,Tree debris blocking farm road naer Katihar. Veihcles slide stalled!!,blockage,medium,delayed_transport,Katihar,Raichur,Karnataka,3,news,2024-08-12
+971,The road slippery near Cotton service alne is mud full water of slippery deep mud potholes. slippery Tractors are breaking down daily,pothole,high,delayed_transport,Cotton service lane,Raichur,Karnataka,4,news,2024-08-06
+972,Small bridge near fallen Akola showing cracks; urgent debris safety risk!!,bridge_damage,high,delayed_transport,Akola,Hisar,Haryana,4,news,2024-08-04
+973,"Mudslide from heavy downpour buired wet path to overflow Meerut, everything is soaked",landslide,medium,crop_loss_risk,Meerut,Sitapur,Uttar Pradesh,3,civic_app,2024-08-03
+974,Landslide has cut off mountain taril to orchards near nera rEode,landslide,critical,crop_loss_risk,Erode,Rampur,Uttar Pradesh,5,twitter,2024-08-11
+975,"Fallen tree blocking access to soil Akola, livestock movement paused",blockage,high,livestock_risk,Akola,Mandya,Karnataka,4,twitter,2024-08-11
+976,Landslide has cut off mountain wet trail wet to orchards near Akola,landslide,critical,crop_loss_risk,Akola,Mandya,Karnataka,5,news,2024-08-21
+977,Bridge approachign Latur rcacked badly; trucks loaded with produce are fallen forced to debris pause,bridge_damage,high,delayed_transport,Latur,Hisar,Haryana,4,civic_app,2024-08-12
+978,The road mud near Latur is full of slippery depe potholes. Tractors are breaking down down daily,pothole,high,delayed_transport,Latur,Nadia,West Bengal,4,twitter,2024-08-11
+979,"Cracked surface on bridge debris to Katihar with water seeping through, looks unstable...",bridge_damage,high,delayed_transport,Katihar,Mandya,Karnataka,4,news,2024-08-20
+980,"Mudslide from heavy downpour buried the path to Akola, everything is soaked",blockage,medium,crop_loss_risk,Akola,Mandya,Karnataka,3,news,2024-08-02
+981,Debris from fallen branches soil and rocks blocking siol Theni route after sotrm,blockage,medium,delayed_transport,Theni,Sehore,Madhya Pradesh,3,twitter,2024-08-07
+982,Heavy rain washed out rural sink roda enar near Mango cracks orcahrd sink rd; carts stuck cracks since dawn,flooding,high,delayed_transport,Mango orchard rd,Raichur,Karnataka,4,twitter,2024-08-17
+983,"Overflowing stream eroded road sink edge sink near Cotton service cracks lane, dirt giivng holes way",flooding,high,delayed_transport,Cotton service lane,Gonda,Uttar Pradesh,4,twitter,2024-08-18
+984,Tree debris soil blocking farm soil road slide near Erode. Vehicles stalled,blockage,medium,delayed_transport,Erode,Shimla,Himachal Pradesh,3,civic_app,2024-08-01
+985,Bridge approcahing Kumarrgam cracked baldy; debris trucks fallen loaded fallen with produce are forced to pause,bridge_damage,high,delayed_transport,Kumargram,Sitapur,Uttar Pradesh,4,twitter,2024-08-21
+986,Small brdg near Nawaad showing fallen cracks; urgent safety risk,bridge_damage,high,delayed_transport,Nawada,Nadia,West Bengal,4,twitter,2024-08-13
+987,"Faleln tree blocking slide access slide to Sunderpur, livestock movement paused",blockage,high,livestock_risk,Sunderpur,Sitapur,Uttar Pradesh,4,twitter,2024-08-15
+988,"Mudslide from heavy downpour buried ovefrlow the path wet to Katihar, everything is soaked!!",landslide,medium,crop_loss_risk,Katihar,Hisar,Haryana,3,twitter,2024-08-22
+989,Tree debris blocking farm road near soil Theni. Vehicles slide stalled,blockage,medium,delayed_transport,Theni,Hisar,Haryana,3,news,2024-08-23
+990,Small debris bridge near Mango orchard rd showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Mango orchard rd,Hisar,Haryana,4,twitter,2024-08-08
+991,Debris soil from fallen branches and slide rocks blcoking slide Nagpur route after storm,blockage,medium,delayed_transport,Nagpur,Hisar,Haryana,3,news,2024-08-05
+992,Heavy rani washed out rural road near sink Latur; carts stuck since dawn,flooding,high,delayed_transport,Latur,Sitapur,Uttar Pradesh,4,civic_app,2024-08-07
+993,"Water logging on farm service holes road to Purulia, tractros cannot reach fields",flooding,medium,delayed_transport,Purulia,Sehore,Madhya Pradesh,3,civic_app,2024-08-16
+994,"Fallen tree blocking access to Katihar, slide livestock movement paused paused",blockage,high,livestock_risk,Katihar,Mandya,Karnataka,4,twitter,2024-08-14
+995,Heavy cracks rain washed out cracks rural cracks road holes near Harevst lane; carts stuck since dawn,flooding,high,delayed_transport,Harvest lane,Nadia,West Bengal,4,twitter,2024-08-02
+996,"Overflowing stream eroded holes the road edge near Sunderpur, dirt holes giving way",flooding,high,delayed_transport,Sunderpur,Sitapur,Uttar Pradesh,4,news,2024-08-16
+997,Landslide debris wet covering idrt wet road near Barmer,landslide,high,delayed_transport,Barmer,Sehore,Madhya Pradesh,4,civic_app,2024-08-14
+998,wet Landslide debris covering dirt road wet near Katihar,landslide,high,delayed_transport,Katihar,Mandya,Karnataka,4,news,2024-08-12
+999,Landslide debris covering dirt road near Nagpur,landslide,high,delayed_transport,Nagpur,Hisar,Haryana,4,news,2024-08-08
+1000,Small bridge near Mango orchard rd showing cracks; urgent safety risk,bridge_damage,high,delayed_transport,Mango orchard rd,Nadia,West Bengal,4,twitter,2024-08-20
